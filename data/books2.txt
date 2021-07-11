@@ -1,1 +1,15 @@
-b;200;Leo Tolstoy;Childhood;g;2142;l-200
+b,200,Leo Tolstoy,Childhood,g_2142,l_200,,
+c,201,Howard Roger Garis,Uncle Wiggily,,l_201,,
+s,202,Howard Roger Garis,Uncle Wiggily's Adventures,g_15281,g_15281,,201
+s,203,Howard Roger Garis,Uncle Wiggily's Story Book,g_60625,g_60625,,201
+s,204,Howard Roger Garis,Uncle Wiggily's Travels,g_15282,g_15282,,201
+s,205,Howard Roger Garis,Uncle Wiggily's Auto Sled,g_50405,g_50405,,201
+s,206,Howard Roger Garis,Uncle Wiggily's Automobile,g_60017,g_60017,,201
+s,207,Howard Roger Garis,Uncle Wiggily and Old Mother Hubbard,g_23213,g_23213,,201
+s,208,Howard Roger Garis,Uncle Wiggily in Wonderland,g_42574,g_42574,,201
+s,209,Howard Roger Garis,Uncle Wiggily in the Woods,g_17807,g_17807,,201
+s,210,Howard Roger Garis,Uncle Wiggily's Squirt Gun Or Jack Frost Icicle Maker,g_56950,g_56950,,201
+s,211,Howard Roger Garis,Uncle Wiggily's Fortune,g_54995,g_54995,,201
+s,212,Howard Roger Garis,Uncle Wiggily Goes Swimming Or How the Frog Boys Surprised the Fox,g_61735,g_61735,,201
+s,213,Howard Roger Garis,Uncle Wiggily on The Flying Rug Or The Great Adventure on a Windy March Day,g_61671,g_61671,,201
+s,214,Howard Roger Garis,Uncle Wiggily and the Pirates Or How the Enemy Craft of Pirate Fox was Sunk,g_61695,g_61695,,201
