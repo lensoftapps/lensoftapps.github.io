@@ -13,3 +13,13 @@ s,211,Howard Roger Garis,Uncle Wiggily's Fortune,g_54995,g_54995,,201
 s,212,Howard Roger Garis,Uncle Wiggily Goes Swimming Or How the Frog Boys Surprised the Fox,g_61735,g_61735,,201
 s,213,Howard Roger Garis,Uncle Wiggily on The Flying Rug Or The Great Adventure on a Windy March Day,g_61671,g_61671,,201
 s,214,Howard Roger Garis,Uncle Wiggily and the Pirates Or How the Enemy Craft of Pirate Fox was Sunk,g_61695,g_61695,,201
+c,215,Margaret Sidney,Five Little Peppers,,l_215,,
+s,216,Margaret Sidney,Five Little Peppers and How They Grew,g_2770,g_2770,,215
+s,217,Margaret Sidney,Five Little Peppers Grown Up,g_7498,g_7498,,215
+s,218,Margaret Sidney,Five Little Peppers and their Friends,g_6418,g_6418,,215
+s,219,Margaret Sidney,The Adventures of Joel Pepper,g_7434,g_7434,,215
+s,220,Margaret Sidney,Five Little Peppers Midway,g_5632,g_5632,,215
+s,221,Margaret Sidney,The Stories Polly Pepper Told to the Five Little Peppers in the Little Brown House,g_49471,g_49471,,215
+s,222,Margaret Sidney,Five Little Peppers Abroad,g_6987,g_6987,,215
+s,223,Margaret Sidney,Ben Pepper,g_35178,g_35178,,215
+s,224,Margaret Sidney,Five Little Peppers at School,g_26122,g_26122,,215
