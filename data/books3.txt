@@ -1,5 +1,0 @@
-c,225,Stella M. Francis,Campfire Girls,,l_225,,
-s,226,Stella M. Francis,Campfire Girls in the Allegheny Mountains or A Christmas Success against Odds,g_15133,g_15133,,225
-s,227,Stella M. Francis,Campfire Girls' Lake Camp or Searching for New Adventures,g_58712,g_58712,,225
-s,228,Stella M. Francis,Campfire Girls at Twin Lakes Or The Quest of a Summer Vacation,g_20832,g_20832,,225
-s,229,Stella M. Francis,Campfire Girls' Outing Or Ethel Hollister's Second Summer in Camp,g_58432,g_58432,,225
