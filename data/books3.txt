@@ -117,7 +117,7 @@ s,388,Arthur Scott Bailey,The Tale of Rusty Wren,g_25824,g_25824,,370
 s,389,Arthur Scott Bailey,The Tale of Old Dog Spot,g_30667,g_30667,,370
 s,390,Arthur Scott Bailey,The Tale of Kiddie Katydid,g_24608,g_24608,,370
 s,391,Arthur Scott Bailey,The Tale of Turkey Proudfoot,g_21844,g_21844,,370
-s,392,Arthur Scott Bailey,The Tale of Peter Mink,g_22979,g_22979,,370
+s,392,Arthur Scott Bailey,The Tale of Peter Mink,g_21845,g_21845,,370
 s,393,Arthur Scott Bailey,The Tale of Reddy Woodpecker,g_43447,g_43447,,370
 s,394,Arthur Scott Bailey,The Tale of Henrietta Hen,g_18652,g_18652,,370
 s,395,Arthur Scott Bailey,The Tale of Timothy Turtle,g_20716,g_20716,,370
