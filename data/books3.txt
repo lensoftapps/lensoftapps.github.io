@@ -22,30 +22,6 @@ s,250,Beatrix Potter,The Tale of Timmy Tiptoes,g_14797,g_14797,,230
 s,251,Beatrix Potter,The Great Big Treasury of Beatrix Potter,g_572,g_572,,230
 s,252,Beatrix Potter,The Tale of Peter Rabbit,g_14304,g_14304,,230
 s,253,Beatrix Potter,Cecily Parsley's Nursery Rhymes,g_23350,g_23350,,230
-c,230,Beatrix Potter,Tales of Beatrix Potter,,l_230,,
-s,231,Beatrix Potter,The Tale of Peter Rabbit,g_14838,g_14838,,230
-s,232,Beatrix Potter,The Tale of Benjamin Bunny,g_14407,g_14407,,230
-s,233,Beatrix Potter,The Tale of Tom Kitten,g_14837,g_14837,,230
-s,234,Beatrix Potter,The Tale of Squirrel Nutkin,g_14872,g_14872,,230
-s,235,Beatrix Potter,The Tale of Jemima Puddle-Duck,g_14814,g_14814,,230
-s,236,Beatrix Potter,The Tale of Mrs. Tiggy-Winkle,g_15137,g_15137,,230
-s,237,Beatrix Potter,The Tale of Johnny Town-Mouse,g_15284,g_15284,,230
-s,238,Beatrix Potter,The Tale of Two Bad Mice,g_45264,g_45264,,230
-s,239,Beatrix Potter,The Tale of Mrs. Tittlemouse,g_17089,g_17089,,230
-s,240,Beatrix Potter,The Tailor of Gloucester,g_14868,g_14868,,230
-s,241,Beatrix Potter,The Tale of Samuel Whiskers Or The Roly-Poly Pudding,g_15575,g_15575,,230
-s,242,Beatrix Potter,The Tale of the Flopsy Bunnies,g_14220,g_14220,,230
-s,243,Beatrix Potter,The Tale of Mr. Jeremy Fisher,g_15077,g_15077,,230
-s,244,Beatrix Potter,A Collection of Beatrix Potter Stories,g_582,g_582,,230
-s,245,Beatrix Potter,The Tale of Ginger and Pickles,g_14877,g_14877,,230
-s,246,Beatrix Potter,The Story of Miss Moppet,g_14848,g_14848,,230
-s,247,Beatrix Potter,The Tale of the Pie and the Patty Pan,g_15234,g_15234,,230
-s,248,Beatrix Potter,The Tale of Mr. Tod,g_19805,g_19805,,230
-s,249,Beatrix Potter,The Story of a Fierce Bad Rabbit,g_45265,g_45265,,230
-s,250,Beatrix Potter,The Tale of Timmy Tiptoes,g_14797,g_14797,,230
-s,251,Beatrix Potter,The Great Big Treasury of Beatrix Potter,g_572,g_572,,230
-s,252,Beatrix Potter,The Tale of Peter Rabbit,g_14304,g_14304,,230
-s,253,Beatrix Potter,Cecily Parsley's Nursery Rhymes,g_23350,g_23350,,230
 c,260,Percy Keese Fitzhugh,Pee-wee Harris,,l_260,,
 s,261,Percy Keese Fitzhugh,Pee-wee Harris,g_9833,g_9833,,260
 s,262,Percy Keese Fitzhugh,Pee-wee Harris Adrift,g_17767,g_17767,,260
@@ -79,3 +55,43 @@ s,298,Percy Keese Fitzhugh,Roy Blakeley's Adventures in Camp,g_10316,g_10316,,29
 s,299,Percy Keese Fitzhugh,Roy Blakeley's Tangled Trail,g_61089,g_61089,,290
 s,300,Percy Keese Fitzhugh,Roy Blakeley: Lost Strayed or Stolen,g_44485,g_44485,,290
 s,301,Percy Keese Fitzhugh,Roy Blakeley's Bee-line Hike,g_25002,g_25002,,290
+c,310,Josephine Chase,Grace Harlowe,,l_310,,
+s,311,Josephine Chase,Grace Harlowe's Plebe Year at High School,g_20472,g_20472,,310
+s,312,Josephine Chase,Grace Harlowe's Golden Summer,g_20471,g_20471,,310
+s,313,Josephine Chase,Grace Harlowe's Overland Riders in the Great North Woods,g_20341,g_20341,,310
+s,314,Josephine Chase,Grace Harlowe's Return to Overton Campus,g_9901,g_9901,,310
+s,315,Josephine Chase,Grace Harlowe's Senior Year at High School,g_4940,g_4940,,310
+s,316,Josephine Chase,Grace Harlowe's Junior Year at High School,g_17811,g_17811,,310
+s,317,Josephine Chase,Grace Harlowe's Overland Riders on the Lost River Trail,g_62946,g_62946,,310
+s,318,Josephine Chase,Grace Harlowe's Second Year at Overton College,g_6858,g_6858,,310
+s,319,Josephine Chase,Grace Harlowe's Sophomore Year at High School,g_15344,g_15344,,310
+s,320,Josephine Chase,Grace Harlowe's Problem,g_20342,g_20342,,310
+s,321,Josephine Chase,Grace Harlowe's Fourth Year at Overton College,g_20474,g_20474,,310
+s,322,Josephine Chase,Grace Harlowe's Overland Riders on the Old Apache Trail,g_50105,g_50105,,310
+s,323,Josephine Chase,Grace Harlowe's Overland Riders Among the Kentucky Mountaineers,g_20405,g_20405,,310
+s,324,Josephine Chase,Grace Harlowe's First Year at Overton College,g_17988,g_17988,,310
+s,325,Josephine Chase,Grace Harlowe's Overland Riders at Circle O Ranch,g_62743,g_62743,,310
+s,326,Josephine Chase,Grace Harlowe's Third Year at Overton College,g_20473,g_20473,,310
+s,327,Josephine Chase,Grace Harlowe's Overland Riders in the Yellowstone National Park,g_57996,g_57996,,310
+s,328,Josephine Chase,Grace Harlowe's Overland Riders in the High Sierras,g_45989,g_45989,,310
+s,329,Josephine Chase,Grace Harlowe with the American Army on the Rhine,g_51697,g_51697,,310
+s,330,Josephine Chase,Grace Harlowe's Overland Riders on the Great American Desert,g_5404,g_5404,,310
+c,340,Josephine Chase,Marjorie Dean,,l_340,,
+s,341,Josephine Chase,Marjorie Dean High School Junior,g_36823,g_36823,,340
+s,342,Josephine Chase,Marjorie Dean College Freshman,g_36851,g_36851,,340
+s,343,Josephine Chase,Marjorie Dean College Sophomore,g_22071,g_22071,,340
+s,344,Josephine Chase,Marjorie Dean College Junior,g_37176,g_37176,,340
+s,345,Josephine Chase,Marjorie Dean College Senior,g_36906,g_36906,,340
+s,346,Josephine Chase,Marjorie Dean High School Senior,g_36325,g_36325,,340
+s,347,Josephine Chase,Marjorie Dean High School Freshman,g_23644,g_23644,,340
+s,348,Josephine Chase,Marjorie Dean Macy,g_53637,g_53637,,340
+s,349,Josephine Chase,Marjorie Dean Macy's Hamilton Colony,g_53987,g_53987,,340
+s,350,Josephine Chase,Marjorie Dean's Romance,g_53440,g_53440,,340
+s,351,Josephine Chase,Marjorie Dean Marvelous Manager,g_53213,g_53213,,340
+s,352,Josephine Chase,Marjorie Dean at Hamilton Arms,g_52626,g_52626,,340
+s,353,Josephine Chase,Marjorie Dean Post-Graduate,g_51686,g_51686,,340
+c,360,Josephine Chase,The Khaki Boys,,l_360,,
+s,361,Josephine Chase,The Khaki Boys at the Front; or Shoulder to Shoulder in the Trenches,g_48653,g_48653,,360
+s,362,Josephine Chase,The Khaki Boys at Camp Sterling; Or Training for the Big Fight in France,g_46027,g_46027,,360
+s,363,Josephine Chase,The Khaki Boys over the Top; Or Doing and Daring for Uncle Sam,g_12957,g_12957,,360
+s,364,Josephine Chase,The Khaki Boys Fighting to Win; or Smashing the German Lines,g_49736,g_49736,,360
