@@ -95,3 +95,119 @@ s,361,Josephine Chase,The Khaki Boys at the Front; or Shoulder to Shoulder in th
 s,362,Josephine Chase,The Khaki Boys at Camp Sterling; Or Training for the Big Fight in France,g_46027,g_46027,,360
 s,363,Josephine Chase,The Khaki Boys over the Top; Or Doing and Daring for Uncle Sam,g_12957,g_12957,,360
 s,364,Josephine Chase,The Khaki Boys Fighting to Win; or Smashing the German Lines,g_49736,g_49736,,360
+c,370,Arthur Scott Bailey,Tales of Arthur Scott Bailey,,l_370,,
+s,371,Arthur Scott Bailey,The Tale of Grandfather Mole,g_21203,g_21203,,370
+s,372,Arthur Scott Bailey,The Tale of Miss Kitty Cat,g_21078,g_21078,,370
+s,373,Arthur Scott Bailey,The Tale of Solomon Owl,g_16663,g_16663,,370
+s,374,Arthur Scott Bailey,The Tale of Betsy Butterfly,g_21322,g_21322,,370
+s,375,Arthur Scott Bailey,The Tale of Jolly Robin,g_28293,g_28293,,370
+s,376,Arthur Scott Bailey,The Tale of Grunty Pig,g_24731,g_24731,,370
+s,377,Arthur Scott Bailey,The Tale of Benny Badger,g_24589,g_24589,,370
+s,378,Arthur Scott Bailey,The Tale of Daddy Longlegs,g_21426,g_21426,,370
+s,379,Arthur Scott Bailey,The Tale of the The Muley Cow,g_24545,g_24545,,370
+s,380,Arthur Scott Bailey,The Tale of Master Meadow Mouse,g_24872,g_24872,,370
+s,381,Arthur Scott Bailey,The Tale of Grumpy Weasel,g_24881,g_24881,,370
+s,382,Arthur Scott Bailey,The Tale of Buster Bumblebee,g_18662,g_18662,,370
+s,383,Arthur Scott Bailey,The Tale of Mrs. Ladybug,g_20097,g_20097,,370
+s,384,Arthur Scott Bailey,The Tale of Jimmy Rabbit,g_24628,g_24628,,370
+s,385,Arthur Scott Bailey,The Tale of Frisky Squirrel,g_18630,g_18630,,370
+s,386,Arthur Scott Bailey,The Tale of Jasper Jay,g_21836,g_21836,,370
+s,387,Arthur Scott Bailey,The Tale of Ferdinand Frog,g_24590,g_24590,,370
+s,388,Arthur Scott Bailey,The Tale of Rusty Wren,g_25824,g_25824,,370
+s,389,Arthur Scott Bailey,The Tale of Old Dog Spot,g_30667,g_30667,,370
+s,390,Arthur Scott Bailey,The Tale of Kiddie Katydid,g_24608,g_24608,,370
+s,391,Arthur Scott Bailey,The Tale of Turkey Proudfoot,g_21844,g_21844,,370
+s,392,Arthur Scott Bailey,The Tale of Peter Mink,g_22979,g_22979,,370
+s,393,Arthur Scott Bailey,The Tale of Reddy Woodpecker,g_43447,g_43447,,370
+s,394,Arthur Scott Bailey,The Tale of Henrietta Hen,g_18652,g_18652,,370
+s,395,Arthur Scott Bailey,The Tale of Timothy Turtle,g_20716,g_20716,,370
+s,396,Arthur Scott Bailey,The Tale of Cuffy Bear,g_15528,g_15528,,370
+s,397,Arthur Scott Bailey,The Tale of Nimble Deer,g_21619,g_21619,,370
+s,398,Arthur Scott Bailey,The Tale of Sandy Chipmunk,g_9462,g_9462,,370
+s,399,Arthur Scott Bailey,The Tale of Chirpy Cricket,g_25943,g_25943,,370
+s,400,Arthur Scott Bailey,The Tale of Pony Twinkleheels,g_18656,g_18656,,370
+s,401,Arthur Scott Bailey,The Tale of Brownie Beaver,g_6754,g_6754,,370
+s,402,Arthur Scott Bailey,The Tale of Peter Mink,g_21845,g_21845,,370
+s,403,Arthur Scott Bailey,The Tale of Tommy Fox,g_5955,g_5955,,370
+s,404,Arthur Scott Bailey,The Tale of Old Mr. Crow,g_14402,g_14402,,370
+s,405,Arthur Scott Bailey,The Tale of Fatty Coon,g_5701,g_5701,,370
+s,406,Arthur Scott Bailey,The Tale of Snowball Lamb,g_24592,g_24592,,370
+s,407,Arthur Scott Bailey,The Tale of Bobby Bobolink,g_21412,g_21412,,370
+s,408,Arthur Scott Bailey,The Tale of Billy Woodchuck,g_25090,g_25090,,370
+s,409,Arthur Scott Bailey,The Tale of Dickie Deer Mouse,g_18953,g_18953,,370
+s,410,Arthur Scott Bailey,The Tale of Freddie Firefly,g_5727,g_5727,,370
+s,411,Arthur Scott Bailey,The Tale of Major Monkey,g_18626,g_18626,,370
+c,420,Alice B. Emerson,Ruth Fielding,,l_420,,
+s,421,Alice B. Emerson,Ruth Fielding Down in Dixie; Or Great Times in the Land of Cotton,g_36747,g_36747,,420
+s,422,Alice B. Emerson,Ruth Fielding at Silver Ranch; Or Schoolgirls Among the Cowboys,g_36398,g_36398,,420
+s,423,Alice B. Emerson,Ruth Fielding in the Red Cross; Or Doing Her Best for Uncle Sam,g_36395,g_36395,,420
+s,424,Alice B. Emerson,Ruth Fielding at Lighthouse Point; Or Nita  the Girl Castaway,g_34024,g_34024,,420
+s,425,Alice B. Emerson,Ruth Fielding of the Red Mill; Or Jasper Parloe's Secret,g_4985,g_4985,,420
+s,426,Alice B. Emerson,Ruth Fielding At Sunrise Farm; Or What Became of the Raby Orphans,g_36397,g_36397,,420
+s,427,Alice B. Emerson,Ruth Fielding At College; Or The Missing Examination Papers,g_26613,g_26613,,420
+s,428,Alice B. Emerson,Ruth Fielding on Cliff Island; Or The Old Hunter's Treasure Box,g_14630,g_14630,,420
+s,429,Alice B. Emerson,Ruth Fielding In the Saddle; Or College Girls in the Land of Gold,g_36396,g_36396,,420
+s,430,Alice B. Emerson,Ruth Fielding and the Gypsies; Or The Missing Pearl Necklace,g_22743,g_22743,,420
+s,431,Alice B. Emerson,Ruth Fielding in the Great Northwest; Or The Indian Girl Star of the Movies,g_15720,g_15720,,420
+s,432,Alice B. Emerson,Ruth Fielding Homeward Bound; Or A Red Cross Worker's Ocean Perils,g_36748,g_36748,,420
+s,433,Alice B. Emerson,Ruth Fielding on the St. Lawrence; Or The Queer Old Man of the Thousand Islands,g_25802,g_25802,,420
+s,434,Alice B. Emerson,Ruth Fielding Down East; Or The Hermit of Beach Plum Point,g_23116,g_23116,,420
+s,435,Alice B. Emerson,Ruth Fielding in Moving Pictures; Or Helping the Dormitory Fund,g_14635,g_14635,,420
+s,436,Alice B. Emerson,Ruth Fielding at the War Front; Or The Hunt for the Lost Soldier,g_20834,g_20834,,420
+s,437,Alice B. Emerson,Ruth Fielding at Snow Camp; Or Lost in the Backwoods,g_6851,g_6851,,420
+s,438,Alice B. Emerson,Ruth Fielding at Briarwood Hall; Or Solving the Campus Mystery,g_29203,g_29203,,420
+c,440,Alice B. Emerson,Betty Gordon,,l_440,,
+s,441,Alice B. Emerson,Betty Gordon at Boarding School; Or The Treasure of Indian Chasm,g_10317,g_10317,,440
+s,442,Alice B. Emerson,Betty Gordon at Mountain Camp; Or The Mystery of Ida Bellethorne,g_14546,g_14546,,440
+s,443,Alice B. Emerson,Betty Gordon at Bramble Farm; Or The Mystery of a Nobody,g_43907,g_43907,,440
+s,444,Alice B. Emerson,Betty Gordon in Washington; Or Strange Adventures in a Great City,g_6853,g_6853,,440
+s,445,Alice B. Emerson,Betty Gordon in the Land of Oil; Or The Farm That Was Worth a Fortune,g_30471,g_30471,,440
+c,450,Edward Stratemeyer,The Rover Boys,,l_450,,
+s,451,Edward Stratemeyer,The Rover Boys on the Farm; Or Last Days at Putnam Hall,g_22163,g_22163,,450
+s,452,Edward Stratemeyer,The Rover Boys on Snowshoe Island; Or The Old Lumberman's Treasure Box,g_22996,g_22996,,450
+s,453,Edward Stratemeyer,The Rover Boys in Business; Or The Search for the Missing Bonds,g_5002,g_5002,,450
+s,454,Edward Stratemeyer,The Rover Boys on a Tour; Or Last Days at Brill College,g_36179,g_36179,,450
+s,455,Edward Stratemeyer,The Rover Boys Down East; Or The Struggle for the Stanhope Fortune,g_40303,g_40303,,450
+s,456,Edward Stratemeyer,The Rover Boys at School; Or The Cadets of Putnam Hall,g_5780,g_5780,,450
+s,457,Edward Stratemeyer,The Rover Boys on the Great Lakes; Or The Secret of the Island Cave,g_6451,g_6451,,450
+s,458,Edward Stratemeyer,The Rover Boys on Treasure Isle; Or The Strange Cruise of the Steam Yacht,g_22547,g_22547,,450
+s,459,Edward Stratemeyer,The Rover Boys on a Hunt; Or The Mysterious House in the Woods,g_22012,g_22012,,450
+s,460,Edward Stratemeyer,The Rover Boys Under Canvas; Or The Mystery of the Wrecked Submarine,g_23286,g_23286,,450
+s,461,Edward Stratemeyer,The Rover Boys in Camp; Or The Rivals of Pine Island,g_15795,g_15795,,450
+s,462,Edward Stratemeyer,The Rover Boys in Camp; Or The Rivals of Pine Island,g_15795,g_15795,,450
+s,463,Edward Stratemeyer,The Rover Boys at Colby Hall; Or The Struggles of the Young Cadets,g_21894,g_21894,,450
+s,464,Edward Stratemeyer,The Rover Boys In The Mountains; Or A Hunt for Fun and Fortune,g_13455,g_13455,,450
+s,465,Edward Stratemeyer,The Rover Boys in the Land of Luck; Or Stirring Adventures in the Oil Fields,g_30841,g_30841,,450
+s,466,Edward Stratemeyer,The Rover Boys on the River; Or The Search for the Missing Houseboat,g_15904,g_15904,,450
+s,467,Edward Stratemeyer,The Rover Boys in the Jungle; Or Stirring Adventures in Africa,g_5770,g_5770,,450
+s,468,Edward Stratemeyer,The Rover Boys out West; Or The Search for a Lost Mine,g_6071,g_6071,,450
+s,469,Edward Stratemeyer,The Rover Boys in Alaska; Or Lost in the Fields of Ice,g_26902,g_26902,,450
+s,470,Edward Stratemeyer,The Rover Boys in the Air; Or From College Campus to the Clouds,g_20053,g_20053,,450
+s,471,Edward Stratemeyer,The Rover Boys in New York; Or Saving Their Father's Honor,g_5003,g_5003,,450
+s,472,Edward Stratemeyer,The Rover Boys on Land and Sea: The Crusoes of Seven Islands,g_16476,g_16476,,450
+s,473,Edward Stratemeyer,The Rover Boys on the Ocean; Or A chase for a fortune,g_5875,g_5875,,450
+s,474,Edward Stratemeyer,The Rover Boys at College; Or The Right Road and the Wrong,g_10323,g_10323,,450
+s,475,Edward Stratemeyer,The Rover Boys at Big Horn Ranch; Or The Cowboys' Double Round-Up,g_26539,g_26539,,450
+s,476,Edward Stratemeyer,The Rover Boys on the Plains; Or The Mystery of Red Rock Ranch,g_26182,g_26182,,450
+s,477,Edward Stratemeyer,The Rover Boys in Southern Waters; Or The Deserted Steam Yacht,g_26193,g_26193,,450
+s,478,Edward Stratemeyer,The Rover Boys on Treasure Isle; Or The Strange Cruise of the Steam Yacht,g_15723,g_15723,,450
+c,480,Edward Stratemeyer,Dave Porter,,l_480,,
+s,481,Edward Stratemeyer,Dave Porter in the South Seas; Or The Strange Cruise of the Stormy Petrel,g_34347,g_34347,,480
+s,482,Edward Stratemeyer,Dave Porter at Star Ranch; Or The Cowboy's Secret,g_19016,g_19016,,480
+s,483,Edward Stratemeyer,Dave Porter and the Runaways; Or Last Days at Oak Hall,g_28654,g_28654,,480
+s,484,Edward Stratemeyer,Dave Porter in the Gold Fields; Or The Search for the Landslide Mine,g_24033,g_24033,,480
+s,485,Edward Stratemeyer,Dave Porter and His Double; Or The Disapperarance of the Basswood Fortune,g_30394,g_30394,,480
+s,486,Edward Stratemeyer,Dave Porter in the Far North; Or The Pluck of an American Schoolboy,g_28861,g_28861,,480
+s,487,Edward Stratemeyer,Dave Porter and His Rivals; Or The Chums and Foes of Oak Hall,g_26160,g_26160,,480
+s,488,Edward Stratemeyer,Dave Porter At Bear Camp; Or The Wild Man of Mirror Lake,g_29859,g_29859,,480
+s,489,Edward Stratemeyer,Dave Porter and His Classmates; Or For the Honor of Oak Hall,g_53414,g_53414,,480
+s,490,Edward Stratemeyer,Dave Porter on Cave Island; Or A Schoolboy's Mysterious Mission,g_36377,g_36377,,480
+s,491,Edward Stratemeyer,Dave Porter's Great Search; Or The Perils of a Young Civil Engineer,g_55764,g_55764,,480
+s,492,Edward Stratemeyer,Dave Porter's Return to School; Or Winning the Medal of Honor,g_53407,g_53407,,480
+c,500,Edward Stratemeyer,The Putnam Hall,,l_500,,
+s,501,Edward Stratemeyer,The Mystery at Putnam Hall: The School Chums' Strange Discovery,g_17636,g_17636,,500
+s,502,Edward Stratemeyer,The Putnam Hall Cadets; Or Good Times in School and Out,g_45517,g_45517,,500
+s,503,Edward Stratemeyer,The Putnam Hall Encampment; Or The Secret of the Old Mill,g_47562,g_47562,,500
+s,504,Edward Stratemeyer,The Putnam Hall Champions; Or Bound to Win Out,g_47023,g_47023,,500
+s,505,Edward Stratemeyer,The Putnam Hall Rebellion; Or The Rival Runaways,g_47451,g_47451,,500
+s,506,Edward Stratemeyer,The Putnam Hall Rivals; Or Fun and Sport Afloat and Ashore,g_46872,g_46872,,500
