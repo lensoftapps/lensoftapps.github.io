@@ -22,3 +22,60 @@ s,250,Beatrix Potter,The Tale of Timmy Tiptoes,g_14797,g_14797,,230
 s,251,Beatrix Potter,The Great Big Treasury of Beatrix Potter,g_572,g_572,,230
 s,252,Beatrix Potter,The Tale of Peter Rabbit,g_14304,g_14304,,230
 s,253,Beatrix Potter,Cecily Parsley's Nursery Rhymes,g_23350,g_23350,,230
+c,230,Beatrix Potter,Tales of Beatrix Potter,,l_230,,
+s,231,Beatrix Potter,The Tale of Peter Rabbit,g_14838,g_14838,,230
+s,232,Beatrix Potter,The Tale of Benjamin Bunny,g_14407,g_14407,,230
+s,233,Beatrix Potter,The Tale of Tom Kitten,g_14837,g_14837,,230
+s,234,Beatrix Potter,The Tale of Squirrel Nutkin,g_14872,g_14872,,230
+s,235,Beatrix Potter,The Tale of Jemima Puddle-Duck,g_14814,g_14814,,230
+s,236,Beatrix Potter,The Tale of Mrs. Tiggy-Winkle,g_15137,g_15137,,230
+s,237,Beatrix Potter,The Tale of Johnny Town-Mouse,g_15284,g_15284,,230
+s,238,Beatrix Potter,The Tale of Two Bad Mice,g_45264,g_45264,,230
+s,239,Beatrix Potter,The Tale of Mrs. Tittlemouse,g_17089,g_17089,,230
+s,240,Beatrix Potter,The Tailor of Gloucester,g_14868,g_14868,,230
+s,241,Beatrix Potter,The Tale of Samuel Whiskers Or The Roly-Poly Pudding,g_15575,g_15575,,230
+s,242,Beatrix Potter,The Tale of the Flopsy Bunnies,g_14220,g_14220,,230
+s,243,Beatrix Potter,The Tale of Mr. Jeremy Fisher,g_15077,g_15077,,230
+s,244,Beatrix Potter,A Collection of Beatrix Potter Stories,g_582,g_582,,230
+s,245,Beatrix Potter,The Tale of Ginger and Pickles,g_14877,g_14877,,230
+s,246,Beatrix Potter,The Story of Miss Moppet,g_14848,g_14848,,230
+s,247,Beatrix Potter,The Tale of the Pie and the Patty Pan,g_15234,g_15234,,230
+s,248,Beatrix Potter,The Tale of Mr. Tod,g_19805,g_19805,,230
+s,249,Beatrix Potter,The Story of a Fierce Bad Rabbit,g_45265,g_45265,,230
+s,250,Beatrix Potter,The Tale of Timmy Tiptoes,g_14797,g_14797,,230
+s,251,Beatrix Potter,The Great Big Treasury of Beatrix Potter,g_572,g_572,,230
+s,252,Beatrix Potter,The Tale of Peter Rabbit,g_14304,g_14304,,230
+s,253,Beatrix Potter,Cecily Parsley's Nursery Rhymes,g_23350,g_23350,,230
+c,260,Percy Keese Fitzhugh,Pee-wee Harris,,l_260,,
+s,261,Percy Keese Fitzhugh,Pee-wee Harris,g_9833,g_9833,,260
+s,262,Percy Keese Fitzhugh,Pee-wee Harris Adrift,g_17767,g_17767,,260
+s,263,Percy Keese Fitzhugh,Pee-wee Harris on the Trail,g_15750,g_15750,,260
+s,264,Percy Keese Fitzhugh,Pee-wee Harris in Luck,g_59247,g_59247,,260
+s,265,Percy Keese Fitzhugh,Pee-wee Harris: Fixer,g_61094,g_61094,,260
+s,266,Percy Keese Fitzhugh,Pee-wee Harris F.O.B. Bridgeboro,g_59405,g_59405,,260
+c,270,Percy Keese Fitzhugh,Tom Slade,,l_270,,
+s,271,Percy Keese Fitzhugh,Tom Slade on the River,g_42155,g_42155,,270
+s,272,Percy Keese Fitzhugh,Tom Slade at Temple Camp,g_19522,g_19522,,270
+s,273,Percy Keese Fitzhugh,Tom Slade Motorcycle Dispatch Bearer,g_19495,g_19495,,270
+s,274,Percy Keese Fitzhugh,Tom Slade on a Transport,g_23663,g_23663,,270
+s,275,Percy Keese Fitzhugh,Tom Slade with the Colors,g_20986,g_20986,,270
+s,276,Percy Keese Fitzhugh,Tom Slade's Double Dare,g_19590,g_19590,,270
+s,277,Percy Keese Fitzhugh,Tom Slade on Mystery Trail,g_18180,g_18180,,270
+s,278,Percy Keese Fitzhugh,Tom Slade on Overlook Mountain,g_59439,g_59439,,270
+s,279,Percy Keese Fitzhugh,Tom Slade at Black Lake,g_18943,g_18943,,270
+s,280,Percy Keese Fitzhugh,Tom Slade : Boy Scout of the Moving Pictures,g_6655,g_6655,,270
+s,281,Percy Keese Fitzhugh,Tom Slade with the Boys Over There,g_18954,g_18954,,270
+s,282,Percy Keese Fitzhugh,Tom Slade with the Flying Corps: A Campfire Tale,g_59816,g_59816,,270
+s,283,Percy Keese Fitzhugh,Tom Slade Picks a Winner,g_61107,g_61107,,270
+c,290,Percy Keese Fitzhugh,Roy Blakeley,,l_290,,
+s,291,Percy Keese Fitzhugh,Roy Blakeley's Camp on Wheels,g_27272,g_27272,,290
+s,292,Percy Keese Fitzhugh,Roy Blakeley  Pathfinder,g_19815,g_19815,,290
+s,293,Percy Keese Fitzhugh,Roy Blakeley in the Haunted Camp,g_31452,g_31452,,290
+s,294,Percy Keese Fitzhugh,Roy Blakeley's Funny-bone Hike,g_60255,g_60255,,290
+s,295,Percy Keese Fitzhugh,Roy Blakeley: His Story,g_10552,g_10552,,290
+s,296,Percy Keese Fitzhugh,Roy Blakeley's Silver Fox Patrol,g_43011,g_43011,,290
+s,297,Percy Keese Fitzhugh,Roy Blakeley's Motor Caravan,g_44172,g_44172,,290
+s,298,Percy Keese Fitzhugh,Roy Blakeley's Adventures in Camp,g_10316,g_10316,,290
+s,299,Percy Keese Fitzhugh,Roy Blakeley's Tangled Trail,g_61089,g_61089,,290
+s,300,Percy Keese Fitzhugh,Roy Blakeley: Lost Strayed or Stolen,g_44485,g_44485,,290
+s,301,Percy Keese Fitzhugh,Roy Blakeley's Bee-line Hike,g_25002,g_25002,,290
