@@ -1,0 +1,312 @@
+s,726,Carolyn Wells,Marjorie's Vacation,g_5271,g_5271,,720
+c,790,Frances Trego Montgomery,Billy Whiskers,,l_790,,
+s,791,Frances Trego Montgomery,Billy Whiskers in France,g_65898,g_65898,,790
+s,792,Frances Trego Montgomery,Billy Whiskers at the Fair,g_65763,g_65763,,790
+s,793,Frances Trego Montgomery,Billy Whiskers at the Circus,g_65655,g_65655,,790
+s,794,Frances Trego Montgomery,Billy Whiskers: The Autobiography of a Goat,g_19167,g_19167,,790
+s,795,Frances Trego Montgomery,Billy Whiskers at Home,g_65433,g_65433,,790
+s,796,Frances Trego Montgomery,Billy Whiskers' Adventures,g_18990,g_18990,,790
+s,797,Frances Trego Montgomery,Billy Whiskers' Travels,g_43872,g_43872,,790
+b,800,Frances Trego Montgomery,Zip; the Adventures of a Frisky Fox Terrier,g_24482,g_24482,,
+c,810,Laura Elizabeth Howe Richards,Queen Hildegarde,,l_810,,
+s,811,Laura Elizabeth Howe Richards,Queen Hildegarde,g_16473,g_16473,,810
+s,812,Laura Elizabeth Howe Richards,Hildegarde's Holiday: A Story for Girls,g_24826,g_24826,,810
+s,813,Laura Elizabeth Howe Richards,Hildegarde's Harvest,g_32520,g_32520,,810
+s,814,Laura Elizabeth Howe Richards,Hildegarde's Home,g_34218,g_34218,,810
+s,815,Laura Elizabeth Howe Richards,Hildegarde's Neighbors,g_5259,g_5259,,810
+c,820,Emma Speed Sampson,Mary Louise,,l_820,,
+s,821,Emma Speed Sampson,Mary Louise and Josie O'Gorman,g_22532,g_22532,,
+s,822,Emma Speed Sampson,Mary Louise Adopts a Soldier,g_58513,g_58513,,820
+s,823,Emma Speed Sampson,Mary Louise at Dorfield,g_57101,g_57101,,820
+s,824,Emma Speed Sampson,Mary Louise Stands the Test,g_59601,g_59601,,820
+c,830,Emma Speed Sampson,Josie O'Gorman,,l_830,,
+s,831,Emma Speed Sampson,Josie O'Gorman,g_60974,g_60974,,830
+s,832,Emma Speed Sampson,Josie O'Gorman and the Meddlesome Major,g_64430,g_64430,,830
+s,840,Ruth Plumly Thompson,The Lost King of Oz,g_65849,g_65849,,1
+s,841,Ruth Plumly Thompson,Grampa in Oz,g_61681,g_61681,,1
+s,842,Ruth Plumly Thompson,The Royal Book of Oz,g_30537,g_30537,,1
+s,843,Ruth Plumly Thompson,Captain Salt in Oz,g_56073,g_56073,,1
+s,844,Ruth Plumly Thompson,The Cowardly Lion of Oz,g_58765,g_58765,,1
+s,845,Ruth Plumly Thompson,Handy Mandy in Oz,g_56079,g_56079,,1
+s,846,Ruth Plumly Thompson,The Wishing Horse of Oz,g_55851,g_55851,,1
+s,847,Ruth Plumly Thompson,The Silver Princess in Oz,g_56085,g_56085,,1
+s,848,Ruth Plumly Thompson,Kabumpo in Oz,g_53765,g_53765,,1
+s,849,Ruth Plumly Thompson,Ozoplaning with the Wizard of Oz,g_55806,g_55806,,1
+c,860,Alice Hale Burnett,Merryvale,,l_860,,
+s,861,Alice Hale Burnett,Halloween at Merryvale,g_17145,g_17145,,860
+s,862,Alice Hale Burnett,Christmas Holidays at Merryvale,g_23569,g_23569,,860
+s,863,Alice Hale Burnett,A Day at the County Fair,g_23999,g_23999,,860
+c,870,Wayne Whipple and S. F. Aaron,Radio Boys,,l_870,,
+s,871,Wayne Whipple and S. F. Aaron,Radio Boys Loyalty; or Bill Brown Listens In,g_25753,g_25753,,870
+s,872,Wayne Whipple and S. F. Aaron,Radio Boys Cronies; or Bill Brown's Radio,g_11861,g_11861,,870
+c,880,Alice Turner Curtis,A Yankee Girl ,,l_880,,
+s,881,Alice Turner Curtis,A Yankee Girl at Shiloh,g_57173,g_57173,,880
+s,882,Alice Turner Curtis,A Yankee Girl at Antietam,g_62026,g_62026,,880
+s,883,Alice Turner Curtis,A Yankee Girl at Fort Sumter,g_5696,g_5696,,880
+c,890,Alice Turner Curtis,A Little Maid,,l_890,,
+s,891,Alice Turner Curtis,A Little Maid of Old Maine,g_20340,g_20340,,890
+s,892,Alice Turner Curtis,A Little Maid of Massachusetts Colony,g_27377,g_27377,,890
+s,893,Alice Turner Curtis,A Little Maid of Old Philadelphia,g_22370,g_22370,,890
+s,894,Alice Turner Curtis,A Little Maid of Province Town,g_26256,g_26256,,890
+s,895,Alice Turner Curtis,A Little Maid of Ticonderoga,g_26723,g_26723,,890
+c,900,Annie Roe Carr,Nan Sherwood,,l_900,,
+s,901,Annie Roe Carr,Nan Sherwood on the Mexican Border,g_36202,g_36202,,900
+s,902,Annie Roe Carr,Nan Sherwood at Lakeview Hall; or The Mystery of the Haunted Boathouse,g_35248,g_35248,,900
+s,903,Annie Roe Carr,Nan Sherwood at Pine Camp; or The Old Lumberman's Secret,g_2691,g_2691,,900
+s,904,Annie Roe Carr,Nan Sherwood's Summer Holidays,g_36176,g_36176,,900
+s,905,Annie Roe Carr,Nan Sherwood's Winter Holidays; or Rescuing the Runaways,g_12610,g_12610,,900
+s,906,Annie Roe Carr,Nan Sherwood at Rose Ranch; or The Old Mexican's Treasure,g_6439,g_6439,,900
+c,910,Frank Fowler,The Broncho Rider Boys,,l_910,,
+s,911,Frank Fowler,The Broncho Rider Boys with Funston at Vera Cruz,g_19538,g_19538,,910
+s,912,Frank Fowler,The Broncho Rider Boys on the Wyoming Trail,g_39578,g_39578,,910
+s,913,Frank Fowler,The Broncho Rider Boys Along the Border,g_39564,g_39564,,910
+s,914,Frank Fowler,The Broncho Rider Boys with the Texas Rangers,g_39577,g_39577,,910
+c,920,George W. Peck,George W. Peck,,l_920,,
+s,921,George W. Peck,Peck's Bad Boy and His Pa,g_25487,g_25487,,920
+s,922,George W. Peck,Peck's Bad Boy with the Cowboys,g_6141,g_6141,,920
+s,923,George W. Peck,Peck's Compendium of Fun,g_14815,g_14815,,920
+s,924,George W. Peck,The Grocery Man And Peck's Bad Boy,g_25488,g_25488,,920
+s,925,George W. Peck,Peck's Bad Boy with the Circus,g_10212,g_10212,,920
+s,926,George W. Peck,Peck's Bad Boy Abroad,g_25489,g_25489,,920
+s,927,George W. Peck,Peck's Sunshine,g_25491,g_25491,,920
+s,928,George W. Peck,Peck's Uncle Ike and The Red Headed Boy,g_25490,g_25490,,920
+s,929,George W. Peck,How Private George W. Peck Put Down the Rebellion,g_25492,g_25492,,920
+s,930,George W. Peck,Works of George W. Peck,g_28970,g_28970,,920
+c,940,Amanda M. Douglas,A Little Girl,,l_940,,
+s,941,Amanda M. Douglas,A Little Girl of Long Ago; or Hannah Ann,g_23781,g_23781,,940
+s,942,Amanda M. Douglas,A Little Girl in Old Salem,g_20722,g_20722,,940
+s,943,Amanda M. Douglas,A Little Girl in Old Detroit,g_20721,g_20721,,940
+s,944,Amanda M. Douglas,A Little Girl in Old Chicago,g_58410,g_58410,,940
+s,945,Amanda M. Douglas,A Little Girl in Old New York,g_23780,g_23780,,940
+s,946,Amanda M. Douglas,A Little Girl in Old St. Louis,g_41526,g_41526,,940
+s,947,Amanda M. Douglas,A Little Girl in Old Philadelphia,g_28648,g_28648,,940
+s,948,Amanda M. Douglas,A Little Girl in Old Quebec,g_23779,g_23779,,940
+s,949,Amanda M. Douglas,A Little Girl in Old Boston,g_23786,g_23786,,940
+s,950,Amanda M. Douglas,A Little Girl in Old Pittsburg,g_43769,g_43769,,940
+s,951,Amanda M. Douglas,A Little Girl in Old San Francisco,g_42582,g_42582,,940
+s,952,Amanda M. Douglas,A Little Girl in Old Washington,g_45045,g_45045,,940
+c,960,G. Harvey Ralphson,Boy Scouts,,l_960,,
+s,961,G. Harvey Ralphson,Boy Scouts Mysterious Signal; or Perils of the Black Bear Patrol,g_22991,g_22991,,960
+s,962,G. Harvey Ralphson,Boy Scouts in Southern Waters; or Spaniard's Treasure Chest,g_13859,g_13859,,960
+s,963,G. Harvey Ralphson,Boy Scouts in the Philippines; or The Key to the Treaty Box,g_20208,g_20208,,960
+s,964,G. Harvey Ralphson,Boy Scouts in California; or The Flag on the Cliff,g_65418,g_65418,,960
+s,965,G. Harvey Ralphson,Boy Scouts in the Canal Zone; or The Plot Against Uncle Sam,g_26540,g_26540,,960
+s,966,G. Harvey Ralphson,"Boy Scouts in the North Sea; or the Mystery of ""U-13""",g_60345,g_60345,,960
+s,967,G. Harvey Ralphson,The Boy Scout Camera Club; or the Confession of a Photograph,g_7356,g_7356,,960
+s,968,G. Harvey Ralphson,Boy Scouts in the North Sea; or The Mystery of a Sub,g_25798,g_25798,,960
+s,969,G. Harvey Ralphson,Boy Scouts in a Submarine; or Searching an Ocean Floor,g_6108,g_6108,,960
+s,970,G. Harvey Ralphson,Boy Scouts with Joffre; or In the Trenches in Belgium,g_60370,g_60370,,960
+s,971,G. Harvey Ralphson,Boy Scouts in Mexico; or On Guard with Uncle Sam,g_2191,g_2191,,960
+s,972,G. Harvey Ralphson,Boy Scouts on Motorcycles; or With the Flying Squadron,g_11469,g_11469,,960
+s,973,G. Harvey Ralphson,Boy Scouts on Hudson Bay; or The Disappearing Fleet,g_22674,g_22674,,960
+s,974,G. Harvey Ralphson,Boy Scouts in an Airship; or The Warning from the Sky,g_6904,g_6904,,960
+s,975,G. Harvey Ralphson,Boy Scouts in the Northwest; or Fighting Forest Fires,g_37487,g_37487,,960
+s,976,G. Harvey Ralphson,Boy Scouts on the Open Plains; or The Round-Up Not Ordered,g_46477,g_46477,,960
+c,980,Burt L. Standish,Frank Merriwell,,l_980,,
+s,981,Burt L. Standish,Frank Merriwell's Triumph; or The Disappearance of Felicia,g_40262,g_40262,,980
+s,982,Burt L. Standish,Frank Merriwell at Yale; or Freshman Against Freshman,g_11115,g_11115,,980
+s,983,Burt L. Standish,Frank Merriwell Down South,g_22424,g_22424,,980
+s,984,Burt L. Standish,Frank Merriwell's Pursuit; or How to Win,g_22874,g_22874,,980
+s,985,Burt L. Standish,Frank Merriwell's Reward,g_19402,g_19402,,980
+s,986,Burt L. Standish,Frank Merriwell's Return to Yale,g_35127,g_35127,,980
+s,987,Burt L. Standish,Frank Merriwell's Backers; or The Pride of His Friends,g_39433,g_39433,,980
+s,988,Burt L. Standish,Frank Merriwell's Athletes; or The Boys Who Won,g_41996,g_41996,,980
+s,989,Burt L. Standish,Frank Merriwell's New Comedian; or The Rise of a Star,g_38610,g_38610,,980
+s,990,Burt L. Standish,Frank Merriwell's Chums,g_19502,g_19502,,980
+s,991,Burt L. Standish,Frank Merriwell Jr.'s Helping Hand; or Fair Play and No Favors,g_62421,g_62421,,980
+s,992,Burt L. Standish,Frank Merriwell's Endurance; or A Square Shooter,g_56278,g_56278,,980
+s,993,Burt L. Standish,Frank Merriwell's Champions; or All in the Game,g_42049,g_42049,,980
+s,994,Burt L. Standish,Frank Merriwell's Nobility; or The Tragedy of the Ocean Tramp,g_10904,g_10904,,980
+s,995,Burt L. Standish,Frank Merriwell's Bravery,g_22571,g_22571,,980
+s,996,Burt L. Standish,Frank Merriwell's Son; or A Chip Off the Old Block,g_25316,g_25316,,980
+c,1000,Burt L. Standish,Dick Merriwell,,l_1000,,
+s,1001,Burt L. Standish,Dick Merriwell's Pranks; or Lively Times in the Orient,g_41879,g_41879,,1000
+s,1002,Burt L. Standish,Dick Merriwell's Trap; or The Chap Who Bungled,g_41866,g_41866,,1000
+s,1003,Burt L. Standish,Dick Merriwell's Backers; or Well Worth Fighting For,g_62930,g_62930,,1000
+s,1004,Burt L. Standish,Dick Merriwell's Aero Dash; or Winning Above the Clouds,g_64407,g_64407,,1000
+s,1005,Burt L. Standish,Dick Merriwell's Heroic Players; or How the Yale Nine Won the Championship,g_63608,g_63608,,1000
+c,1010,Quincy Allen,The Outdoor Chums,,l_1010,,
+s,1011,Quincy Allen,The Outdoor Chums After Big Game; or Perilous Adventures in the Wilderness,g_15188,g_15188,,1010
+s,1012,Quincy Allen,The Outdoor Chums on a Houseboat; or The Rivals of the Mississippi,g_35831,g_35831,,1010
+s,1013,Quincy Allen,The Outdoor Chums on the Lake; or Lively Adventures on Wildcat Island,g_37486,g_37486,,1010
+s,1014,Quincy Allen,The Outdoor Chums at Cabin Point; or The Golden Cup Mystery,g_19743,g_19743,,1010
+s,1015,Quincy Allen,The Outdoor Chums in the Big Woods; or Rival Hunters of Lumber Run,g_42630,g_42630,,1010
+s,1016,Quincy Allen,The Outdoor Chums in the Forest; or Laying the Ghost of Oak Ridge,g_41982,g_41982,,1010
+s,1017,Quincy Allen,The Outdoor Chums; or The First Tour of the Rod  Gun and Camera Club,g_10267,g_10267,,1010
+s,1018,Quincy Allen,The Outdoor Chums on the Gulf; or Rescuing the Lost Balloonists,g_14130,g_14130,,1010
+c,1020,Annie F. Johnston,The Little Colonel,,l_1020,,
+s,1021,Annie F. Johnston,The Little Colonel,g_9407,g_9407,,1020
+s,1022,Annie F. Johnston,The Little Colonel's Christmas Vacation,g_26215,g_26215,,1020
+s,1023,Annie F. Johnston,The Little Colonel's Hero,g_15122,g_15122,,1020
+s,1024,Annie F. Johnston,Two Little Knights of Kentucky,g_12317,g_12317,,1020
+s,1025,Annie F. Johnston,The Little Colonel: Maid of Honor,g_21248,g_21248,,1020
+s,1026,Annie F. Johnston,The Little Colonel at Boarding-School,g_38939,g_38939,,1020
+s,1027,Annie F. Johnston,The Little Colonel's Knight Comes Riding,g_39594,g_39594,,1020
+s,1028,Annie F. Johnston,The Little Colonel's House Party,g_15741,g_15741,,1020
+s,1029,Annie F. Johnston,The Little Colonel in Arizona,g_39599,g_39599,,1020
+s,1030,Annie F. Johnston,The Little Colonel's Holidays,g_40463,g_40463,,1020
+s,1031,Annie F. Johnston,The Little Colonel's Chum: Mary Ware,g_15867,g_15867,,1020
+s,1032,Annie F. Johnston,The Story of the Red Cross as told to The Little Colonel,g_17094,g_17094,,1020
+c,1040,Victor G. Durham,The Submarine Boys,,l_1040,,
+s,1041,Victor G. Durham,The Submarine Boys and the Middies,g_17756,g_17756,,1040
+s,1042,Victor G. Durham,The Submarine Boys on Duty,g_17054,g_17054,,1040
+s,1043,Victor G. Durham,The Submarine Boys' Lightning Cruise,g_17058,g_17058,,1040
+s,1044,Victor G. Durham,The Submarine Boys for the Flag,g_17059,g_17059,,1040
+s,1045,Victor G. Durham,The Submarine Boys and the Spies,g_17057,g_17057,,1040
+s,1046,Victor G. Durham,The Submarine Boys' Trial Trip,g_17055,g_17055,,1040
+s,1047,Victor G. Durham,The Submarine Boys and the Middies,g_17056,g_17056,,1040
+c,1050,Jacob Abbott,Rollo,,l_1050,,
+s,1051,Jacob Abbott,Rollo in Rome,g_23430,g_23430,,1050
+s,1052,Jacob Abbott,Rollo on the Rhine,g_22511,g_22511,,1050
+s,1053,Jacob Abbott,Rollo in Holland,g_22972,g_22972,,1050
+s,1054,Jacob Abbott,Rollo in Switzerland,g_22377,g_22377,,1050
+s,1055,Jacob Abbott,Rollo's Experiments,g_24993,g_24993,,1050
+s,1056,Jacob Abbott,Rollo in Geneva,g_25355,g_25355,,1050
+s,1057,Jacob Abbott,Rollo Learning to Read,g_61817,g_61817,,1050
+s,1058,Jacob Abbott,Rollo in London,g_24182,g_24182,,1050
+s,1059,Jacob Abbott,Rollo at Play; or Safe Amusements,g_11140,g_11140,,1050
+s,1060,Jacob Abbott,Rollo's Philosophy. [Air],g_25206,g_25206,,1050
+s,1061,Jacob Abbott,Rollo at Work,g_25274,g_25274,,1050
+s,1062,Jacob Abbott,Rollo's Philosophy [Fire],g_62726,g_62726,,1050
+s,1063,Jacob Abbott,Rollo in Paris,g_22956,g_22956,,1050
+s,1064,Jacob Abbott,Rollo on the Atlantic,g_22252,g_22252,,1050
+s,1065,Jacob Abbott,Rollo in Naples,g_24488,g_24488,,1050
+s,1066,Jacob Abbott,Rollo in the Woods,g_19195,g_19195,,1050
+s,1067,Jacob Abbott,Rollo in Scotland,g_25174,g_25174,,1050
+s,1068,Jacob Abbott,Rollo's Museum,g_25548,g_25548,,1050
+c,1070,Allen Chapman,The Radio Boys,,l_1070,,
+s,1071,Allen Chapman,The Radio Boys' First Wireless; or Winning the Ferberton Prize,g_7899,g_7899,,
+s,1072,Allen Chapman,The Radio Boys at Ocean Point; or The Message that Saved the Ship,g_35594,g_35594,,
+s,1073,Allen Chapman,The Radio Boys Trailing a Voice; or Solving a Wireless Mystery,g_25858,g_25858,,
+s,1074,Allen Chapman,The Radio Boys at the Sending Station; or Making Good in the Wireless Room,g_27455,g_27455,,
+s,1075,Allen Chapman,The Radio Boys at Mountain Pass; or The Midnight Call for Assistance,g_38453,g_38453,,
+s,1076,Allen Chapman,The Radio Boys with the Iceberg Patrol; or Making safe the ocean lanes,g_62904,g_62904,,
+s,1077,Allen Chapman,The Radio Boys with the Forest Rangers; or The great fire on Spruce Mountain,g_62769,g_62769,,
+c,1080,Allen Chapman,Ralph,,l_1080,,
+s,1081,Allen Chapman,Ralph in the Switch Tower; or Clearing the Track,g_39051,g_39051,,1080
+s,1082,Allen Chapman,Ralph the Train Dispatcher; or The Mystery of the Pay Car,g_38969,g_38969,,1080
+s,1083,Allen Chapman,Ralph of the Roundhouse; or Bound to Become a Railroad Man,g_39050,g_39050,,1080
+s,1084,Allen Chapman,Ralph on the Overland Express; or The Trials and Triumphs of a Young Engineer,g_28655,g_28655,,1080
+s,1085,Allen Chapman,Ralph on the Engine; or The Young Fireman of the Limited Mail,g_28292,g_28292,,1080
+c,1090,Allen Chapman,Fred Fenton,,l_1090,,
+s,1091,Allen Chapman,Fred Fenton on the Track; or The Athletes of Riverport School,g_23763,g_23763,,1090
+s,1092,Allen Chapman,Fred Fenton on the Crew; or The Young Oarsmen of Riverport School,g_21594,g_21594,,1090
+s,1093,Allen Chapman,Fred Fenton Marathon Runner: The Great Race at Riverport School,g_30094,g_30094,,1090
+c,1100,Allen Chapman,Tom Fairfield,,l_1100,,
+s,1101,Allen Chapman,Tom Fairfield's Schooldays; or The Chums of Elmwood Hall,g_43796,g_43796,,1100
+s,1102,Allen Chapman,Tom Fairfield in Camp; or The Secret of the Old Mill,g_44293,g_44293,,1100
+s,1103,Allen Chapman,Tom Fairfield at Sea; or The Wreck of the Silver Star,g_44013,g_44013,,1100
+s,1104,Allen Chapman,Tom Fairfield's Pluck and Luck; or Working to Clear His Name,g_14083,g_14083,,1100
+s,1105,Allen Chapman,Tom Fairfield's Hunting Trip; or Lost in the Wilderness,g_44457,g_44457,,1100
+c,1110,Grace Brooks Hill,The Corner House Girls,,l_1110,,
+s,1111,Grace Brooks Hill,The Corner House Girls,g_38743,g_38743,,1110
+s,1112,Grace Brooks Hill,The Corner House Girls Snowbound,g_38431,g_38431,,1110
+s,1113,Grace Brooks Hill,The Corner House Girls Under Canvas,g_38742,g_38742,,1110
+s,1114,Grace Brooks Hill,The Corner House Girls' Odd Find,g_36255,g_36255,,1110
+s,1115,Grace Brooks Hill,The Corner House Girls on Palm Island,g_36259,g_36259,,1110
+s,1116,Grace Brooks Hill,The Corner House Girls Growing Up,g_30914,g_30914,,1110
+s,1117,Grace Brooks Hill,The Corner House Girls on a Tour,g_36251,g_36251,,1110
+s,1118,Grace Brooks Hill,The Corner House Girls on a Houseboat,g_38609,g_38609,,1110
+s,1119,Grace Brooks Hill,The Corner House Girls Solve a Mystery,g_62489,g_62489,,1110
+s,1120,Grace Brooks Hill,The Corner House Girls at School,g_21034,g_21034,,1110
+s,1121,Grace Brooks Hill,The Corner House Girls in a Play,g_31722,g_31722,,1110
+s,1122,Grace Brooks Hill,The Corner House Girls Among the Gypsies,g_36400,g_36400,,1110
+c,1130,H. Irving Hancock,The Grammar School Boys,,l_1130,,
+s,1131,H. Irving Hancock,The Grammar School Boys of Gridley; or Dick Co. Start Things Moving,g_22307,g_22307,,1130
+s,1132,H. Irving Hancock,The Grammar School Boys in Summer Athletics,g_12735,g_12735,,1130
+s,1133,H. Irving Hancock,The Grammar School Boys Snowbound; or Dick Co. at Winter Sports,g_20789,g_20789,,1130
+c,1140,H. Irving Hancock,Dave Darrin,,l_1140,,
+s,1141,H. Irving Hancock,Dave Darrin on the Asiatic Station,g_41661,g_41661,,1140
+s,1142,H. Irving Hancock,Dave Darrin and the German Submarines,g_41628,g_41628,,1140
+s,1143,H. Irving Hancock,Dave Darrin on Mediterranean Service; or With Dan Dalzell on European Duty,g_22431,g_22431,,1140
+s,1144,H. Irving Hancock,Dave Darrin After the Mine Layers; or Hitting the Enemy a Hard Naval Blow,g_23036,g_23036,,1140
+s,1145,H. Irving Hancock,Dave Darrin's Second Year at Annapolis,g_10045,g_10045,,1140
+s,1146,H. Irving Hancock,Dave Darrin's First Year at Annapolis,g_12774,g_12774,,1140
+s,1147,H. Irving Hancock,Dave Darrin's Fourth Year at Annapolis: Headed for Graduation and the Big Cruise,g_12775,g_12775,,1140
+s,1148,H. Irving Hancock,Dave Darrin at Vera Cruz: Fighting with the U.S. Navy in Mexico,g_12776,g_12776,,1140
+s,1149,H. Irving Hancock,Dave Darrin's Third Year at Annapolis; or Leaders of the Second Class Midshipmen,g_10319,g_10319,,1140
+c,1150,H. Irving Hancock,Uncle Sam's Boys,,l_1150,,
+s,1151,H. Irving Hancock,Uncle Sam's Boys as Lieutenants; or Serving Old Glory as Line Officers,g_26381,g_26381,,1150
+s,1152,H. Irving Hancock,Uncle Sam's Boys as Sergeants; or Handling Their First Real Commands,g_27679,g_27679,,1150
+s,1153,H. Irving Hancock,Uncle Sam's Boys in the Ranks; or Two Recruits in the United States Army,g_27680,g_27680,,1150
+s,1154,H. Irving Hancock,Uncle Sam's Boys with Pershing's Troops,g_12810,g_12810,,1150
+s,1155,H. Irving Hancock,Uncle Sam's Boys in the Philippines; or Following the Flag against the Moros,g_23447,g_23447,,1150
+s,1156,H. Irving Hancock,Uncle Sam's Boys on Field Duty; or Winning Corporal's Chevrons,g_52755,g_52755,,1150
+c,1160,H. Irving Hancock,The Young Engineers,,l_1160,,
+s,1161,H. Irving Hancock,The Young Engineers in Arizona; or Laying Tracks on the Man-killer Quicksand,g_8153,g_8153,,1160
+s,1162,H. Irving Hancock,The Young Engineers on the Gulf,g_14369,g_14369,,1160
+s,1163,H. Irving Hancock,The Young Engineers in Colorado; or At Railroad Building in Earnest,g_12734,g_12734,,1160
+s,1164,H. Irving Hancock,The Young Engineers in Mexico; or Fighting the Mine Swindlers,g_12778,g_12778,,1160
+s,1165,H. Irving Hancock,The Young Engineers in Nevada; or Seeking Fortune on the Turn of a Pick,g_12777,g_12777,,1160
+c,1170,H. Irving Hancock,Dick Prescott,,l_1170,,
+s,1171,H. Irving Hancock,Dick Prescott's Second Year at West Point,g_12819,g_12819,,1170
+s,1172,H. Irving Hancock,Dick Prescott's Fourth Year at West Point,g_12807,g_12807,,1170
+s,1173,H. Irving Hancock,Dick Prescott's First Year at West Point; or Two Chums in the Cadet Gray,g_6426,g_6426,,1170
+s,1174,H. Irving Hancock,Dick Prescott's Third Year at West Point; or Standing Firm for Flag and Honor,g_12806,g_12806,,1170
+c,1180,H. Irving Hancock,The High School Boys,,l_1180,,
+s,1181,H. Irving Hancock,The High School Boys in Summer Camp,g_12729,g_12729,,1180
+s,1182,H. Irving Hancock,The High School Boys' Training Hike,g_12731,g_12731,,1180
+s,1183,H. Irving Hancock,The High School Boys' Fishing Trip,g_12730,g_12730,,1180
+s,1184,H. Irving Hancock,The High School Freshmen; or Dick Co.'s First Year Pranks and Sports,g_12689,g_12689,,1180
+s,1185,H. Irving Hancock,The High School Pitcher; or Dick Co. on the Gridley Diamond,g_12690,g_12690,,1180
+s,1186,H. Irving Hancock,The High School Boys' Canoe Club,g_12728,g_12728,,1180
+s,1187,H. Irving Hancock,The High School Left End; or Dick Co. Grilling on the Football Gridiron,g_12691,g_12691,,1180
+s,1188,H. Irving Hancock,The High School Captain of the Team; or Dick Co. Leading the Athletic Vanguard,g_12692,g_12692,,1180
+c,1190,H. Irving Hancock,The Motor Boat Club,,l_1190,,
+s,1191,H. Irving Hancock,The Motor Boat Club at Nantucket; or The Mystery of the Dunstan Heir,g_40605,g_40605,,1190
+s,1192,H. Irving Hancock,The Motor Boat Club and The Wireless; or the Dot  Dash and Dare Cruise,g_28449,g_28449,,1190
+s,1193,H. Irving Hancock,The Motor Boat Club in Florida; or Laying the Ghost of Alligator Swamp,g_48459,g_48459,,1190
+s,1194,H. Irving Hancock,The Motor Boat Club off Long Island; or A Daring Marine Game at Racing Speed,g_48863,g_48863,,1190
+s,1195,H. Irving Hancock,The Motor Boat Club at the Golden Gate; or A Thrilling Capture in the Great Fog,g_49030,g_49030,,1190
+c,1200,Richard Bonner,The Boy Inventors,,l_1200,,
+s,1201,Richard Bonner,The Boy Inventors' Radio Telephone,g_13783,g_13783,,1200
+s,1202,Richard Bonner,The Boy Inventors and the Vanishing Gun,g_57305,g_57305,,1200
+s,1203,Richard Bonner,The Boy Inventors' Flying Ship,g_53712,g_53712,,1200
+s,1204,Richard Bonner,The Boy Inventor's Wireless Triumph,g_53302,g_53302,,1200
+s,1205,Richard Bonner,The Boy Inventors' Diving Torpedo Boat,g_54069,g_54069,,1200
+s,1206,Richard Bonner,The Boy Inventors' Electric Hydroaeroplane,g_54034,g_54034,,1200
+c,1210,George A. Warren,The Banner Boy Scouts,,l_1210,,
+s,1211,George A. Warren,The Banner Boy Scouts on a Tour; or The Mystery of Rattlesnake Mountain,g_20985,g_20985,,1210
+s,1212,George A. Warren,The Banner Boy Scouts Snowbound; or A Tour on Skates and Iceboats,g_28531,g_28531,,1210
+s,1213,George A. Warren,The Banner Boy Scouts; or The Struggle for Leadership,g_17266,g_17266,,1210
+s,1214,George A. Warren,The Banner Boy Scouts Afloat; or The Secret of Cedar Island,g_9948,g_9948,,1210
+s,1215,George A. Warren,The Banner Boy Scouts Mystery,g_52809,g_52809,,1210
+s,1216,George A. Warren,The Banner Boy Scouts in the Air,g_52394,g_52394,,1210
+c,1220,Helen Beecher Long,Janice Day,,l_1220,,
+s,1221,Helen Beecher Long,Janice Day,g_32312,g_32312,,1220
+s,1222,Helen Beecher Long,Janice Day at Poketown,g_23278,g_23278,,1220
+s,1223,Helen Beecher Long,How Janice Day Won,g_23208,g_23208,,1220
+s,1224,Helen Beecher Long,The Mission of Janice Day,g_25920,g_25920,,1220
+s,1225,Helen Beecher Long,Janice Day  the Young Homemaker,g_2483,g_2483,,1220
+c,1230,Sophie May,Dotty Dimple,,l_1230,,
+s,1231,Sophie May,Dotty Dimple at Her Grandmother's,g_20699,g_20699,,1230
+s,1232,Sophie May,Dotty Dimple's Flyaway,g_19247,g_19247,,1230
+s,1233,Sophie May,Dotty Dimple Out West,g_16383,g_16383,,1230
+s,1234,Sophie May,Dotty Dimple at Play,g_10320,g_10320,,1230
+s,1235,Sophie May,Dotty Dimple At Home,g_25396,g_25396,,1230
+s,1236,Sophie May,Dotty Dimple at School,g_48951,g_48951,,1230
+c,1240,Sophie May,Little Prudy,,l_1240,,
+s,1241,Sophie May,Little Prudy,g_24711,g_24711,,1240
+s,1242,Sophie May,Prudy Keeping House,g_20984,g_20984,,1240
+s,1243,Sophie May,Little Prudy's Sister Susy,g_14202,g_14202,,1240
+s,1244,Sophie May,Little Prudy's Dotty Dimple,g_16390,g_16390,,1240
+s,1245,Sophie May,Little Prudy's Captain Horace,g_53306,g_53306,,1240
+s,1246,Sophie May,Little Prudy's Cousin Grace,g_49686,g_49686,,1240
+c,1250,Sophie May,Fairy Book and Other Stories,,l_1250,,
+s,1251,Sophie May,Fairy Book,g_27321,g_27321,,1250
+s,1252,Sophie May,Jimmy Lucy and All,g_14608,g_14608,,1250
+s,1253,Sophie May,Jimmy Boy,g_49519,g_49519,,1250
+s,1254,Sophie May,Little Pitchers,g_48862,g_48862,,1250
+s,1255,Sophie May,Little Grandfather,g_25481,g_25481,,1250
+s,1256,Sophie May,The Twin Cousins,g_23540,g_23540,,1250
+s,1257,Sophie May,Flaxie Growing Up,g_49186,g_49186,,1250
+s,1258,Sophie May,Kittyleen,g_49227,g_49227,,1250
+s,1259,Sophie May,Doctor Papa,g_48648,g_48648,,1250
+s,1260,Sophie May,Aunt Madge's Story,g_25356,g_25356,,1250
+s,1261,Sophie May,Little Grandmother,g_25507,g_25507,,1250
+s,1262,Sophie May,Captain Horace,g_25484,g_25484,,1250
+s,1263,Sophie May,Little Folks Astray,g_11257,g_11257,,1250
+c,1270,Katherine Keene Galt,The Girl Scouts,,l_1270,,
+s,1271,Katherine Keene Galt,The Girl Scouts at Home; or Rosanna's Beautiful Day,g_20736,g_20736,,1270
+s,1272,Katherine Keene Galt,The Girl Scout's Triumph; or Rosanna's Sacrifice,g_42029,g_42029,,1270
+s,1273,Katherine Keene Galt,The Girl Scouts Rally; or Rosanna Wins,g_38152,g_38152,,1270
