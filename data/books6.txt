@@ -1,0 +1,338 @@
+c,1280,James R. Driscoll,The Brighton Boys,,l_1280,,
+s,1281,James R. Driscoll,The Brighton Boys in the Trenches,g_42733,g_42733,,1280
+s,1282,James R. Driscoll,The Brighton Boys in the Radio Service,g_22079,g_22079,,1280
+s,1283,James R. Driscoll,The Brighton Boys in the Argonne Forest,g_51772,g_51772,,1280
+s,1284,James R. Driscoll,The Brighton Boys with the Submarine Fleet,g_12939,g_12939,,1280
+s,1285,James R. Driscoll,The Brighton Boys in the Submarine Treasure Ship,g_54364,g_54364,,1280
+s,1286,James R. Driscoll,The Brighton Boys at Chateau-Thierry,g_53271,g_53271,,1280
+s,1287,James R. Driscoll,The Brighton Boys in Transatlantic Flight,g_54973,g_54973,,1280
+s,1288,James R. Driscoll,The Brighton Boys at St. Mihiel,g_55669,g_55669,,1280
+s,1289,James R. Driscoll,The Brighton Boys with the Flying Corps,g_12938,g_12938,,1280
+c,1300,Howard Roger Garis,Daddy Takes Us,,l_1300,,
+s,1301,Howard Roger Garis,Daddy Takes Us to the Garden,g_14859,g_14859,,1300
+s,1302,Howard Roger Garis,Daddy Takes Us Skating,g_10220,g_10220,,1300
+c,1310,Howard Roger Garis,The Curlytops,,l_1310,,
+s,1311,Howard Roger Garis,The Curlytops on Star Island; Or Camping out with Grandpa,g_25477,g_25477,,1310
+s,1312,Howard Roger Garis,The Curlytops Snowed In; Or Grand Fun with Skates and Sleds,g_32090,g_32090,,1310
+s,1313,Howard Roger Garis,The Curlytops and Their Playmates; Or Jolly Times Through the Holidays,g_25143,g_25143,,1310
+s,1314,Howard Roger Garis,The Curlytops and Their Pets; Or Uncle Toby's Strange Collection,g_21049,g_21049,,1310
+s,1315,Howard Roger Garis,The Curlytops at Sunset Beach; Or What Was Found in the Sand,g_45253,g_45253,,1310
+s,1316,Howard Roger Garis,The Curlytops at Uncle Frank's Ranch; Or Little Folks on Ponyback,g_32525,g_32525,,1310
+s,1317,Howard Roger Garis,The Curlytops at Uncle Frank's Ranch; Or Little Folks on Ponyback,g_6814,g_6814,,1310
+s,1318,Howard Roger Garis,The Curlytops on Star Island; Or Camping out with Grandpa,g_5989,g_5989,,1310
+s,1319,Howard Roger Garis,The Curlytops at Silver Lake; Or On the Water with Uncle Ben,g_47583,g_47583,,1310
+c,1330,Howard Roger Garis,Dick Hamilton,,l_1330,,
+s,1331,Howard Roger Garis,Dick Hamilton's Fortune; Or The Stirring Doings of a Millionaire's Son,g_32374,g_32374,,1330
+s,1332,Howard Roger Garis,Dick Hamilton's Football Team; Or A Young Millionaire On The Gridiron,g_41410,g_41410,,1330
+s,1333,Howard Roger Garis,Dick Hamilton's Airship; Or A Young Millionaire in the Clouds,g_2065,g_2065,,1330
+s,1334,Howard Roger Garis,Dick Hamilton's Steam Yacht; Or A Young Millionaire and the Kidnappers,g_53460,g_53460,,1330
+s,1335,Howard Roger Garis,Dick Hamilton's Cadet Days; Or The Handicap of a Millionaire's Son,g_33926,g_33926,,1330
+s,1336,Howard Roger Garis,Dick Hamilton's Touring Car; Or A Young Millionaire's Race For A Fortune,g_53406,g_53406,,1330
+c,1340,Howard Roger Garis,Rick and Ruddy,,l_1340,,
+s,1341,Howard Roger Garis,Rick and Ruddy: The Story of a Boy and His Dog,g_34448,g_34448,,1340
+s,1342,Howard Roger Garis,Rick and Ruddy Out West,g_62093,g_62093,,1340
+c,1350,Howard Roger Garis,Larry Dexter,,l_1350,,
+s,1351,Howard Roger Garis,Larry Dexter Reporter,g_60244,g_60244,,1350
+s,1352,Howard Roger Garis,Larry Dexter and the Stolen Boy; Or A Young Reporter on the Lakes,g_56743,g_56743,,1350
+s,1353,Howard Roger Garis,Larry Dexter's Great Search; Or The Hunt for the Missing Millionaire,g_16397,g_16397,,1350
+c,1360,Howard Roger Garis,Umboo the Elephant and Other Stories,,l_1360,,
+s,1361,Howard Roger Garis,Sammie and Susie Littletail,g_13087,g_13087,,1360
+s,1362,Howard Roger Garis,Lulu  Alice and Jimmie Wibblewobble,g_15280,g_15280,,1360
+s,1363,Howard Roger Garis,Jacko and Jumpo Kinkytail (The Funny Monkey Boys),g_32334,g_32334,,1360
+s,1364,Howard Roger Garis,Bully and Bawly No-Tail (the Jumping Frogs),g_18599,g_18599,,1360
+s,1365,Howard Roger Garis,Buddy and Brighteyes Pigg: Bed Time Stories,g_11156,g_11156,,1360
+s,1366,Howard Roger Garis,The Camp Fire Girls; Or The Secret of an Old Mill,g_57171,g_57171,,1360
+s,1367,Howard Roger Garis,Neddie and Beckie Stubtail (Two Nice Bears),g_61082,g_61082,,1360
+s,1368,Howard Roger Garis,With Force and Arms: A Tale of Love and Salem Witchcraft,g_54371,g_54371,,1360
+s,1369,Howard Roger Garis,Teddy and the Mystery Deer,g_60461,g_60461,,1360
+s,1370,Howard Roger Garis,Curly and Floppy Twistytail (The Funny Piggie Boys),g_5262,g_5262,,1360
+s,1371,Howard Roger Garis,The White Crystals: Being an Account of the Adventures of Two Boys,g_38558,g_38558,,1360
+s,1372,Howard Roger Garis,Those Smith Boys on the Diamond; Or Nip and Tuck for Victory,g_55715,g_55715,,1360
+s,1373,Howard Roger Garis,Umboo  the Elephant,g_5900,g_5900,,1360
+s,1374,Howard Roger Garis,From Office Boy to Reporter; Or The First Step in Journalism,g_60456,g_60456,,1360
+c,1380,John Henry Goldfrap,The Boy Scouts,,l_1380,,
+s,1381,John Henry Goldfrap,The Boy Scouts on Belgian Battlefields,g_29991,g_29991,,1380
+s,1382,John Henry Goldfrap,The Boy Scouts at the Panama-Pacific Exposition,g_42086,g_42086,,1380
+s,1383,John Henry Goldfrap,The Boy Scouts Under Fire in Mexico,g_36000,g_36000,,1380
+s,1384,John Henry Goldfrap,The Boy Scouts of the Eagle Patrol,g_12112,g_12112,,1380
+s,1385,John Henry Goldfrap,The Boy Scouts at the Panama Canal,g_42077,g_42077,,1380
+s,1386,John Henry Goldfrap,The Boy Scouts at the Canadian Border,g_50602,g_50602,,1380
+s,1387,John Henry Goldfrap,The Boy Scouts for Uncle Sam,g_32460,g_32460,,1380
+s,1388,John Henry Goldfrap,The Boy Scouts and the Army Airship,g_62792,g_62792,,1380
+s,1389,John Henry Goldfrap,The Boy Scouts' Mountain Camp,g_42102,g_42102,,1380
+s,1390,John Henry Goldfrap,The Boy Scouts on the Range,g_35071,g_35071,,1380
+c,1400,John Henry Goldfrap,The Boy Aviators,,l_1400,,
+s,1401,John Henry Goldfrap,The Boy Aviators' Flight for a Fortune,g_37175,g_37175,,1400
+s,1402,John Henry Goldfrap,The Boy Aviators in Africa; Or an Aerial Ivory Trail,g_6905,g_6905,,1400
+s,1403,John Henry Goldfrap,The Boy Aviators with the Air Raiders: A Story of the Great World War,g_45727,g_45727,,1400
+s,1404,John Henry Goldfrap,The Boy Aviators in Nicaragua; Or In League with the Insurgents,g_49734,g_49734,,1400
+s,1405,John Henry Goldfrap,The Boy Aviators in Record Flight; Or The Rival Aeroplane,g_45182,g_45182,,1400
+s,1406,John Henry Goldfrap,The Boy Aviators' Treasure Quest; Or The Golden Galleon,g_6149,g_6149,,1400
+s,1407,John Henry Goldfrap,The Boy Aviators' Polar Dash; Or Facing Death in the Antarctic,g_6973,g_6973,,1400
+s,1408,John Henry Goldfrap,The Boy Aviators on Secret Service; Or Working with Wireless,g_45991,g_45991,,1400
+c,1410,John Henry Goldfrap,The Bungalow Boys,,l_1410,,
+s,1411,John Henry Goldfrap,The Bungalow Boys North of Fifty-Three,g_44317,g_44317,,1410
+s,1412,John Henry Goldfrap,The Bungalow Boys Along the Yukon,g_39643,g_39643,,1410
+s,1413,John Henry Goldfrap,The Bungalow Boys in the Great Northwest,g_45262,g_45262,,1410
+c,1420,John Henry Goldfrap,The Ocean Wireless Boys,,l_1420,,
+s,1421,John Henry Goldfrap,The Ocean Wireless Boys and the Lost Liner,g_41265,g_41265,,1420
+s,1422,John Henry Goldfrap,The Ocean Wireless Boys on the Pacific,g_44503,g_44503,,1420
+s,1423,John Henry Goldfrap,The Ocean Wireless Boys and the Naval Code,g_26778,g_26778,,1420
+s,1424,John Henry Goldfrap,The Ocean Wireless Boys on the Atlantic,g_48955,g_48955,,1420
+s,1425,John Henry Goldfrap,The Ocean Wireless Boys on War Swept Seas,g_45841,g_45841,,1420
+s,1426,John Henry Goldfrap,The Ocean Wireless Boys on War Swept Seas,g_45841,g_45841,,1420
+c,1430,John Henry Goldfrap,The Border Boys,,l_1430,,
+s,1431,John Henry Goldfrap,The Border Boys Across the Frontier,g_19083,g_19083,,1430
+s,1432,John Henry Goldfrap,The Border Boys in the Canadian Rockies,g_52810,g_52810,,1430
+s,1433,John Henry Goldfrap,The Border Boys Along the St. Lawrence,g_51600,g_51600,,1430
+s,1434,John Henry Goldfrap,The Border Boys with the Mexican Rangers,g_52832,g_52832,,1430
+s,1435,John Henry Goldfrap,The Border Boys with the Texas Rangers,g_49002,g_49002,,1430
+s,1436,John Henry Goldfrap,The Border Boys on the Trail,g_48680,g_48680,,1430
+c,1440,John Henry Goldfrap,The Motor Rangers,,l_1440,,
+s,1441,John Henry Goldfrap,The Motor Rangers' Wireless Station,g_50260,g_50260,,1440
+s,1442,John Henry Goldfrap,The Motor Rangers Through the Sierras,g_43917,g_43917,,1440
+s,1443,John Henry Goldfrap,The Motor Rangers' Cloud Cruiser,g_48270,g_48270,,1440
+c,1450,John Henry Goldfrap,The Dreadnought Boys,,l_1450,,
+s,1451,John Henry Goldfrap,The Dreadnought Boys on Aero Service,g_52637,g_52637,,1450
+s,1452,John Henry Goldfrap,The Dreadnought Boys in Home Waters,g_54496,g_54496,,1450
+s,1453,John Henry Goldfrap,The Dreadnought Boys on a Submarine,g_58013,g_58013,,1450
+s,1454,John Henry Goldfrap,The Dreadnought Boys' World Cruise,g_59986,g_59986,,1450
+s,1455,John Henry Goldfrap,The Dreadnought Boys Aboard a Destroyer,g_57396,g_57396,,1450
+s,1456,John Henry Goldfrap,The Dreadnought Boys on Battle Practice,g_47776,g_47776,,1450
+c,1460,Mabell S. C. Smith,Ethel Morton,,l_1460,,
+s,1461,Mabell S. C. Smith,Ethel Morton's Enterprise,g_11660,g_11660,,1460
+s,1462,Mabell S. C. Smith,Ethel Morton and the Christmas Ship,g_36007,g_36007,,1460
+s,1463,Mabell S. C. Smith,Ethel Morton at Chautauqua,g_36010,g_36010,,1460
+s,1464,Mabell S. C. Smith,Ethel Morton at Rose House,g_15550,g_15550,,1460
+s,1465,Mabell S. C. Smith,Ethel Morton at Sweetbrier Lodge,g_35364,g_35364,,1460
+s,1466,Mabell S. C. Smith,Ethel Morton's Holidays,g_19834,g_19834,,1460
+c,1470,Victor Appleton,The Moving Picture Boys,,l_1470,,
+s,1471,Victor Appleton,The Moving Picture Boys at Panama; Or Stirring Adventures Along the Great Canal,g_10776,g_10776,,1470
+s,1472,Victor Appleton,The Motion Picture Chums at Seaside Park,g_36964,g_36964,,1470
+s,1473,Victor Appleton,The Moving Picture Boys on the War Front,g_17744,g_17744,,1470
+s,1474,Victor Appleton,The Moving Picture Boys on the Coast,g_23677,g_23677,,1470
+s,1475,Victor Appleton,The Moving Picture Boys and the Flood; Or Perilous Days on the Mississippi,g_46011,g_46011,,1470
+c,1480,Lillian Elizabeth Roy,Polly,,l_1480,,
+s,1481,Lillian Elizabeth Roy,Polly and Her Friends Abroad,g_37429,g_37429,,1480
+s,1482,Lillian Elizabeth Roy,Polly in New York,g_37459,g_37459,,1480
+s,1483,Lillian Elizabeth Roy,Polly's Business Venture,g_25778,g_25778,,1480
+s,1484,Lillian Elizabeth Roy,Polly's Southern Cruise,g_42934,g_42934,,1480
+s,1485,Lillian Elizabeth Roy,Polly and Eleanor,g_25419,g_25419,,1480
+s,1486,Lillian Elizabeth Roy,Polly of Pebbly Pit,g_6001,g_6001,,1480
+c,1490,Lillian Elizabeth Roy,Girl Scouts,,l_1490,,
+s,1491,Lillian Elizabeth Roy,Girl Scouts at Dandelion Camp,g_37800,g_37800,,1490
+s,1492,Lillian Elizabeth Roy,Girl Scouts in the Rockies,g_38018,g_38018,,1490
+s,1493,Lillian Elizabeth Roy,Girl Scouts in the Adirondacks,g_26345,g_26345,,1490
+s,1494,Lillian Elizabeth Roy,Girl Scouts in Arizona and New Mexico,g_59490,g_59490,,1490
+c,1500,Lillian Elizabeth Roy,The Blue Birds,,l_1500,,
+s,1501,Lillian Elizabeth Roy,The Blue Birds at Happy Hills,g_64978,g_64978,,1500
+s,1502,Lillian Elizabeth Roy,The Blue Birds' Winter Nest,g_23693,g_23693,,1500
+c,1510,Lillian Elizabeth Roy,The Woodcraft Girls,,l_1510,,
+s,1511,Lillian Elizabeth Roy,The Woodcraft Girls in the City,g_35600,g_35600,,1510
+s,1512,Lillian Elizabeth Roy,The Woodcraft Girls at Camp,g_47279,g_47279,,1510
+c,1520,Lillian Elizabeth Roy,The Little Washingtons,,l_1520,,
+s,1521,Lillian Elizabeth Roy,The Little Washingtons' Travels,g_39518,g_39518,,1520
+s,1522,Lillian Elizabeth Roy,The Little Washington's Relatives,g_41236,g_41236,,1520
+b,1530,Lillian Elizabeth Roy,Natalie: A Garden Scout,g_37458,g_37458,,
+b,1531,Lillian Elizabeth Roy,Woodcraft Boys at Sunset Island,g_51319,g_51319,,
+b,1532,Lillian Elizabeth Roy,Five Little Starrs in the Canadian Forest,g_31786,g_31786,,
+c,1540,Wyn Roosevelt,Frontier Boys,,l_1540,,
+s,1541,Wyn Roosevelt,The Frontier Boys in the Sierras; Or The Lost Mine,g_32253,g_32253,,1540
+s,1542,Wyn Roosevelt,Frontier Boys in Frisco,g_20259,g_20259,,1540
+s,1543,Wyn Roosevelt,The Frontier Boys in the Grand Canyon; Or A Search for Treasure,g_33210,g_33210,,1540
+s,1544,Wyn Roosevelt,Frontier Boys in the South Seas,g_32084,g_32084,,1540
+s,1545,Wyn Roosevelt,Frontier Boys on the Coast; Or In the Pirate's Power,g_25473,g_25473,,1540
+c,1550,Roger Thompson Finlay,The Wonder Island Boys,,l_1550,,
+s,1551,Roger Thompson Finlay,The Wonder Island Boys: Conquest of the Savages,g_21832,g_21832,,1550
+s,1552,Roger Thompson Finlay,The Wonder Island Boys: Exploring the Island,g_20588,g_20588,,1550
+s,1553,Roger Thompson Finlay,The Wonder Island Boys: Treasures of the Islands,g_21810,g_21810,,1550
+s,1554,Roger Thompson Finlay,The Wonder Island Boys: Adventures on Strange Islands,g_21760,g_21760,,1550
+s,1555,Roger Thompson Finlay,The Wonder Island Boys: The Mysteries of the Caverns,g_20614,g_20614,,1550
+s,1556,Roger Thompson Finlay,The Wonder Island Boys:  The Tribesmen,g_20753,g_20753,,1550
+c,1560,Margaret Penrose,The Motor Girls,,l_1560,,
+s,1561,Margaret Penrose,The Motor Girls,g_4914,g_4914,,1560
+s,1562,Margaret Penrose,The Motor Girls at Camp Surprise; Or The Cave in the Mountains,g_36426,g_36426,,1560
+s,1563,Margaret Penrose,The Motor Girls in the Mountains; Or The Gypsy Girl's Secret,g_39063,g_39063,,1560
+s,1564,Margaret Penrose,The Motor Girls at Lookout Beach; Or In Quest of the Runaways,g_37911,g_37911,,1560
+s,1565,Margaret Penrose,The Motor Girls on Crystal Bay; Or The Secret of the Red Oar,g_25873,g_25873,,1560
+s,1566,Margaret Penrose,The Motor Girls on a Tour,g_2789,g_2789,,1560
+s,1567,Margaret Penrose,The Motor Girls on the Coast; Or The Waif From the Sea,g_32024,g_32024,,1560
+s,1568,Margaret Penrose,The Motor Girls on Cedar Lake; Or the Hermit of Fern Island,g_7081,g_7081,,1560
+s,1569,Margaret Penrose,The Motor Girls Through New England; Or Held by the Gypsies,g_20870,g_20870,,1560
+s,1570,Margaret Penrose,The Motor Girls on Waters Blue; Or the Strange Cruise of the Tartar,g_7210,g_7210,,1560
+c,1580,Margaret Penrose,The Campfire Girls,,l_1580,,
+s,1581,Margaret Penrose,The Campfire Girls of Roselawn; Or a Strange Message from the Air,g_28448,g_28448,,1580
+s,1582,Margaret Penrose,The Campfire Girls on Station Island; Or The Wireless from the Steam Yacht,g_36130,g_36130,,1580
+c,1590,Margaret Penrose,Dorothy Dale,,l_1590,,
+s,1591,Margaret Penrose,Dorothy Dale's Great Secret,g_41558,g_41558,,1590
+s,1592,Margaret Penrose,Dorothy Dale: A Girl of To-Day,g_5629,g_5629,,1590
+s,1593,Margaret Penrose,Dorothy Dale's Camping Days,g_16091,g_16091,,1590
+s,1594,Margaret Penrose,Dorothy Dale - A Girl of Today,g_28943,g_28943,,1590
+s,1595,Margaret Penrose,Dorothy Dale in the City,g_38555,g_38555,,1590
+s,1596,Margaret Penrose,Dorothy Dale's Queer Holidays,g_15653,g_15653,,1590
+s,1597,Margaret Penrose,Dorothy Dale's Promise,g_54021,g_54021,,1590
+s,1598,Margaret Penrose,Dorothy Dale at Glenwood School,g_33530,g_33530,,1590
+s,1599,Margaret Penrose,Dorothy Dale's School Rivals,g_54649,g_54649,,1590
+s,1600,Margaret Penrose,Dorothy Dale and Her Chums,g_54147,g_54147,,1590
+s,1601,Margaret Penrose,Dorothy Dale in the West,g_54022,g_54022,,1590
+b,1610,Margaret Penrose,The Radio Girls at Forest Lodge; Or The Strange Hut in the Swamp,g_61592,g_61592,,
+c,1620,Clair W. Hayes,The Boy Allies,,l_1620,,
+s,1621,Clair W. Hayes,The Boy Allies with the Victorious Fleets; Or The Fall of the German Navy,g_14626,g_14626,,1620
+s,1622,Clair W. Hayes,The Boy Allies at Jutland; Or The Greatest Naval Battle of History,g_10081,g_10081,,1620
+s,1623,Clair W. Hayes,The Boy Allies on the Firing Line; Or Twelve Days Battle Along the Marne,g_12870,g_12870,,1620
+s,1624,Clair W. Hayes,The Boy Allies Under the Sea; Or The Vanishing Submarines,g_14711,g_14711,,1620
+s,1625,Clair W. Hayes,The Boy Allies with the Cossacks; Or A Wild Dash over the Carpathians,g_30951,g_30951,,1620
+s,1626,Clair W. Hayes,The Boy Allies with Uncle Sam's Cruisers,g_6072,g_6072,,1620
+s,1627,Clair W. Hayes,The Boy Allies on the North Sea Patrol,g_46045,g_46045,,1620
+s,1628,Clair W. Hayes,The Boy Allies at Liege; Or Through Lines of Steel,g_12656,g_12656,,1620
+s,1629,Clair W. Hayes,The Boy Allies in the Trenches; Or Midst Shot and Shell Along the Aisne,g_12571,g_12571,,1620
+s,1630,Clair W. Hayes,The Boy Allies in Great Peril; Or With the Italian Army in the Alps,g_12682,g_12682,,1620
+s,1631,Clair W. Hayes,The Boy Allies at Verdun; Or Saving France from the Enemy,g_13020,g_13020,,1620
+s,1632,Clair W. Hayes,The Boy Allies with Pershing in France; Or Over the Top at Chateau Thierry,g_46085,g_46085,,1620
+s,1633,Clair W. Hayes,The Boy Allies with Haig in Flanders; Or the Fighting Canadians of Vimy Ridge,g_6083,g_6083,,1620
+s,1634,Clair W. Hayes,The Boy Allies in the Balkan Campaign; Or the Struggle to Save a Nation,g_12805,g_12805,,1620
+s,1635,Clair W. Hayes,The Boy Allies with the Terror of the Seas; Or The Last Shot of Submarine D-16,g_46054,g_46054,,1620
+s,1636,Clair W. Hayes,The Boy Allies with Marshal Foch; Or The Closing Days of the Great World War,g_50166,g_50166,,1620
+s,1637,Clair W. Hayes,The Boy Allies under Two Flags,g_6337,g_6337,,1620
+s,1638,Clair W. Hayes,The Boy Allies in the Baltic; Or Through Fields of Ice to Aid the Czar,g_45982,g_45982,,1620
+c,1640,Janet Aldridge,The Meadow-Brook Girls,,l_1640,,
+s,1641,Janet Aldridge,The Meadow-Brook Girls Across Country; Or The Young Pathfinders on a Summer Hike,g_36391,g_36391,,1640
+s,1642,Janet Aldridge,The Meadow-Brook Girls Afloat; Or the Stormy Cruise of the Red Rover,g_13577,g_13577,,1640
+s,1643,Janet Aldridge,The Meadow-Brook Girls on the Tennis Courts; Or Winning Out in the Big Tournament,g_42725,g_42725,,1640
+s,1644,Janet Aldridge,The Meadow-Brook Girls Under Canvas; Or Fun and Frolic in the Summer Camp,g_14889,g_14889,,1640
+s,1645,Janet Aldridge,The Meadow-Brook Girls in the Hills; Or The Missing Pilot of the White Mountains,g_17865,g_17865,,1640
+s,1646,Janet Aldridge,The Meadow-Brook Girls by the Sea; Or The Loss of The Lonesome Bar,g_17099,g_17099,,1640
+c,1650,Frank V. Webster,Boys Stories,,l_1650,,
+s,1651,Frank V. Webster,The Boys of the Wireless; Or A Stirring Rescue from the Deep,g_35044,g_35044,,1650
+s,1652,Frank V. Webster,The Young Treasure Hunter; Or Fred Stanley's Trip to Alaska,g_20922,g_20922,,1650
+s,1653,Frank V. Webster,Two Boys of the Battleship; Or For the Honor of Uncle Sam,g_36323,g_36323,,1650
+s,1654,Frank V. Webster,Dick the Bank Boy; Or A Missing Fortune,g_18981,g_18981,,1650
+s,1655,Frank V. Webster,Harry Watson's High School Days; Or The Rivals of Rivertown,g_36409,g_36409,,1650
+s,1656,Frank V. Webster,Darry the Life Saver; Or The Heroes of the Coast,g_22277,g_22277,,1650
+s,1657,Frank V. Webster,The Newsboy Partners; Or Who Was Dick Box?,g_32537,g_32537,,1650
+s,1658,Frank V. Webster,The Boy Scouts of Lenox; Or The Hike Over Big Bear Mountain,g_21842,g_21842,,1650
+s,1659,Frank V. Webster,The Boy from the Ranch; Or Roy Bradner's City Experiences,g_21794,g_21794,,1650
+s,1660,Frank V. Webster,Airship Andy; Or The Luck of a Brave Boy,g_36388,g_36388,,1650
+s,1661,Frank V. Webster,Comrades of the Saddle; Or The Young Rough Riders of the Plains,g_11890,g_11890,,1650
+s,1662,Frank V. Webster,Bob Chester's Grit; Or From Ranch to Riches,g_17151,g_17151,,1650
+s,1663,Frank V. Webster,Bob the Castaway; Or The Wreck of the Eagle,g_11909,g_11909,,1650
+s,1664,Frank V. Webster,Cowboy Dave; Or The Round-up at Rolling River,g_6165,g_6165,,1650
+s,1665,Frank V. Webster,The Boys of Bellwood School; Or Frank Jordan's Triumph,g_6444,g_6444,,1650
+s,1666,Frank V. Webster,The Boy Pilot of the Lakes; Or Nat Morton's Perils,g_33282,g_33282,,1650
+s,1667,Frank V. Webster,Two Boy Gold Miners; Or Lost in the Mountains,g_39094,g_39094,,1650
+s,1668,Frank V. Webster,The Young Firemen of Lakeville; Or Herbert Dare's Pluck,g_6114,g_6114,,1650
+s,1669,Frank V. Webster,Jack of the Pony Express; Or The Young Rider of the Mountain Trails,g_8410,g_8410,,1650
+c,1680,Louis Arundel,Motor Boat Boys,,l_1680,,
+s,1681,Louis Arundel,Motor Boat Boys Down the Danube; Or Four Chums Abroad,g_42191,g_42191,,1680
+s,1682,Louis Arundel,Motor Boat Boys on the St. Lawrence,g_35728,g_35728,,1680
+s,1683,Louis Arundel,Motor Boat Boys' River Chase; Or Six Chums Afloat and Ashore,g_42019,g_42019,,1680
+s,1684,Louis Arundel,Motor Boat Boys on the Great Lakes; Or Exploring the Mystic Isle of Mackinac,g_40903,g_40903,,1680
+s,1685,Louis Arundel,Motor Boat Boys Among the Florida Keys; Or The Struggle for the Leadership,g_41536,g_41536,,1680
+s,1686,Louis Arundel,Motor Boat Boys Mississippi Cruise; Or The Dash for Dixie,g_21980,g_21980,,1680
+s,1687,Louis Arundel,Motor Boat Boys Down the Coast; Or Through Storm and Stress to Florida,g_30727,g_30727,,1680
+c,1690,Edith Bancroft,Jane Allen,,l_1690,,
+s,1691,Edith Bancroft,Jane Allen Right Guard,g_19015,g_19015,,1690
+s,1692,Edith Bancroft,Jane Allen Center,g_40908,g_40908,,1690
+s,1693,Edith Bancroft,Jane Allen Junior,g_4945,g_4945,,1690
+c,1700,Edith Lavell,The Mystery,,l_1700,,
+s,1701,Edith Lavell,The Mystery of the Fires,g_43583,g_43583,,1700
+s,1702,Edith Lavell,The Mystery at Dark Cedars,g_43582,g_43582,,1700
+s,1703,Edith Lavell,The Mystery of the Secret Band,g_43584,g_43584,,1700
+c,1710,Edith Lavell,Linda Carlton,,l_1710,,
+s,1711,Edith Lavell,Linda Carlton's Perilous Summer,g_63407,g_63407,,1710
+s,1712,Edith Lavell,Linda Carlton Air Pilot,g_44862,g_44862,,1710
+s,1713,Edith Lavell,Linda Carlton's Island Adventure,g_45457,g_45457,,1710
+s,1714,Edith Lavell,Linda Carlton's Hollywood Flight,g_53337,g_53337,,1710
+s,1715,Edith Lavell,Linda Carlton's Ocean Flight,g_48478,g_48478,,1710
+c,1720,Edith Lavell,The Girl Scouts,,l_1720,,
+s,1721,Edith Lavell,The Girl Scouts' Captain,g_64315,g_64315,,1720
+s,1722,Edith Lavell,The Girl Scouts' Good Turn,g_24248,g_24248,,1720
+s,1723,Edith Lavell,The Girl Scouts at Miss Allen's School,g_55213,g_55213,,1720
+s,1724,Edith Lavell,The Girl Scouts' Motor Trip,g_61679,g_61679,,1720
+s,1725,Edith Lavell,The Girl Scouts' Canoe Trip,g_55858,g_55858,,1720
+s,1726,Edith Lavell,The Girl Scouts' Vacation Adventures,g_62105,g_62105,,1720
+s,1727,Edith Lavell,The Girl Scouts on the Ranch,g_55386,g_55386,,1720
+c,1730,Captain James Carson,The Saddle Boys,,l_1730,,
+s,1731,Captain James Carson,The Saddle Boys of the Rockies; Or Lost on Thunder Mountain,g_19120,g_19120,,1730
+s,1732,Captain James Carson,The Saddle Boys in the Grand Canyon; Or The Hermit of the Cave,g_21841,g_21841,,1730
+s,1733,Captain James Carson,The Saddle Boys at Circle Ranch; Or In at the Grand Round-Up,g_47615,g_47615,,1730
+c,1740,Gabrielle E. Jackson,Three Little Women,,l_1740,,
+s,1741,Gabrielle E. Jackson,Three Little Women: A Story for Girls,g_38029,g_38029,,1740
+s,1742,Gabrielle E. Jackson,Three Little Women's Success: A Story for Girls,g_40401,g_40401,,1740
+b,1750,Gabrielle E. Jackson,A Dixie School Girl,g_25765,g_25765,,
+b,1751,Gabrielle E. Jackson,Caps and Capers: A Story of Boarding-School Life,g_26549,g_26549,,
+c,1760,Gabrielle E. Jackson,Peggy Stewart,,l_1760,,
+s,1761,Gabrielle E. Jackson,Peggy Stewart Navy Girl at Home,g_5729,g_5729,,1760
+s,1762,Gabrielle E. Jackson,Peggy Stewart at School,g_22113,g_22113,,1760
+c,1770,Ralph Henry Barbour,Stories about Sport,,l_1770,,
+s,1771,Ralph Henry Barbour,The Purple Pennant,g_65819,g_65819,,1770
+s,1772,Ralph Henry Barbour,Right Guard Grant,g_53116,g_53116,,1770
+s,1773,Ralph Henry Barbour,The Secret Play,g_65237,g_65237,,1770
+s,1774,Ralph Henry Barbour,For the Honor of the School: A Story of School Life and Interscholastic Sport,g_47974,g_47974,,1770
+s,1775,Ralph Henry Barbour,The Story My Doggie Told to Me,g_65001,g_65001,,1770
+s,1776,Ralph Henry Barbour,Danforth Plays the Game: Stories for Boys Little and Big,g_64150,g_64150,,1770
+s,1777,Ralph Henry Barbour,Left End Edwards,g_20650,g_20650,,1770
+s,1778,Ralph Henry Barbour,The Lilac Girl,g_12858,g_12858,,1770
+s,1779,Ralph Henry Barbour,A Maid in Arcady,g_60612,g_60612,,1770
+s,1780,Ralph Henry Barbour,The Half-Back: A Story of School Football and Golf,g_11041,g_11041,,1770
+s,1781,Ralph Henry Barbour,The Lucky Seventh,g_39923,g_39923,,1770
+s,1782,Ralph Henry Barbour,Left Tackle Thayer,g_13542,g_13542,,1770
+s,1783,Ralph Henry Barbour,Left Guard Gilbert,g_26149,g_26149,,1770
+s,1784,Ralph Henry Barbour,The Brother of a Hero,g_63297,g_63297,,1770
+s,1785,Ralph Henry Barbour,Center Rush Rowland,g_46592,g_46592,,1770
+s,1786,Ralph Henry Barbour,Captain of the Crew,g_48745,g_48745,,1770
+s,1787,Ralph Henry Barbour,For Yardley: A Story of Track and Field,g_59043,g_59043,,1770
+s,1788,Ralph Henry Barbour,Guarding His Goal,g_62590,g_62590,,1770
+s,1789,Ralph Henry Barbour,Left Half Harmon,g_47226,g_47226,,1770
+s,1790,Ralph Henry Barbour,Four Afoot: Being the Adventures of the Big Four on the Highway,g_50983,g_50983,,1770
+s,1791,Ralph Henry Barbour,Keeping His Course,g_62027,g_62027,,1770
+s,1792,Ralph Henry Barbour,Crofton Chums,g_60894,g_60894,,1770
+s,1793,Ralph Henry Barbour,Four in Camp: A Story of Summer Adventures in the New Hampshire Woods,g_50590,g_50590,,1770
+s,1794,Ralph Henry Barbour,The Crimson Sweater,g_33425,g_33425,,1770
+s,1795,Ralph Henry Barbour,Double Play: A Story of School and Baseball,g_56752,g_56752,,1770
+s,1796,Ralph Henry Barbour,Double Play: A Story of School and Baseball,g_56752,g_56752,,1770
+s,1797,Ralph Henry Barbour,Tom Dick and Harriet,g_54747,g_54747,,1770
+s,1798,Ralph Henry Barbour,Full-Back Foster,g_42653,g_42653,,1770
+s,1799,Ralph Henry Barbour,The Adventure Club Afloat,g_13897,g_13897,,1770
+s,1800,Ralph Henry Barbour,Quarter-Back Bates,g_47120,g_47120,,1770
+s,1801,Ralph Henry Barbour,Kitty of the Roses,g_56652,g_56652,,1770
+s,1802,Ralph Henry Barbour,The Turner Twins,g_37209,g_37209,,1770
+s,1803,Ralph Henry Barbour,"Forward Pass: A Story of the ""New Football""",g_55982,g_55982,,1770
+s,1804,Ralph Henry Barbour,Partners Three,g_61673,g_61673,,1770
+s,1805,Ralph Henry Barbour,Right End Emerson,g_50414,g_50414,,1770
+s,1806,Ralph Henry Barbour,Finkler's Field: A Story of School and Baseball,g_59136,g_59136,,1770
+s,1807,Ralph Henry Barbour,Behind the Line: A Story of College Life and Football,g_13556,g_13556,,1770
+s,1808,Ralph Henry Barbour,Harry's Island,g_54909,g_54909,,1770
+s,1809,Ralph Henry Barbour,The Arrival of Jimpson and Other Stories for Boys about Boys,g_45689,g_45689,,1770
+s,1810,Ralph Henry Barbour,Weatherby's Inning: A Story of College Life and Baseball,g_45142,g_45142,,1770
+s,1811,Ralph Henry Barbour,Right Half Hollins,g_53986,g_53986,,1770
+s,1812,Ralph Henry Barbour,Captain Chub,g_55435,g_55435,,1770
+s,1813,Ralph Henry Barbour,Fourth Down!,g_63892,g_63892,,1770
+s,1814,Ralph Henry Barbour,Follow the Ball,g_60540,g_60540,,1770
+s,1815,Ralph Henry Barbour,"Winning His ""Y"": A Story of School Athletics",g_58192,g_58192,,1770
+s,1816,Ralph Henry Barbour,Four Afloat: Being the Adventures of the Big Four on the Water,g_37021,g_37021,,1770
+s,1817,Ralph Henry Barbour,Right Tackle Todd,g_53518,g_53518,,1770
+s,1817,Ralph Henry Barbour,Change Signals: A Story of the New Football,g_59623,g_59623,,1770
+s,1818,Ralph Henry Barbour,The Spirit of the School,g_54190,g_54190,,1770
+s,1819,Ralph Henry Barbour,Around the End,g_59874,g_59874,,1770
+s,1820,Ralph Henry Barbour,The New Boy at Hilltop and Other Stories,g_6487,g_6487,,1770
+s,1821,Ralph Henry Barbour,Kingsford Quarter,g_57740,g_57740,,1770
+s,1822,Ralph Henry Barbour,The Land of Joy,g_57497,g_57497,,1770
+s,1823,Ralph Henry Barbour,Team-Mates,g_60299,g_60299,,1770
+c,1830,Janet D. Wheeler,Billie Bradley,,l_1830,,
+s,1831,Janet D. Wheeler,Billie Bradley and Her Classmates; Or The Secret of the Locked Tower,g_40586,g_40586,,1830
+s,1832,Janet D. Wheeler,Billie Bradley and the School Mystery; Or The Girl From Oklahoma,g_50157,g_50157,,1830
+s,1833,Janet D. Wheeler,Billie Bradley on Lighthouse Island; Or The Mystery of the Wreck,g_25762,g_25762,,1830
+s,1834,Janet D. Wheeler,Billie Bradley and Her Inheritance; Or The Queer Homestead at Cherry Corners,g_10048,g_10048,,1830
+s,1835,Janet D. Wheeler,Billie Bradley at Three Towers Hall; Or Leading a Needed Rebellion,g_23894,g_23894,,1830
+c,1840,George Durston,The Boy Scouts,,l_1840,,
+s,1841,George Durston,The Boy Scouts on the Trail,g_20327,g_20327,,1840
+s,1842,George Durston,The Boy Scout Aviators,g_5707,g_5707,,1840
+s,1843,George Durston,The Boy Scouts to the Rescue,g_45202,g_45202,,1840
+s,1844,George Durston,The Boy Scouts in Front of Warsaw; Or In the Wake of War,g_5981,g_5981,,1840
+c,1850,Bracebridge Hemyng,Jack Harkaway,,l_1850,,
+s,1851,Bracebridge Hemyng,Jack Harkaway's Boy Tinker Among The Turks,g_20320,g_20320,,1850
+s,1852,Bracebridge Hemyng,Jack Harkaway and His Son's Escape from the Brigands of Greece,g_7335,g_7335,,1850
+s,1853,Bracebridge Hemyng,The Slave of the Mine; Or Jack Harkaway in 'Frisco,g_46653,g_46653,,1850
+s,1854,Bracebridge Hemyng,Jack Harkaway in New York; Or The Adventures of the Travelers' Club,g_46588,g_46588,,1850
+s,1855,Bracebridge Hemyng,Young Jack Harkaway Fighting the Pirates of the Red Sea,g_59012,g_59012,,1850
