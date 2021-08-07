@@ -167,7 +167,6 @@ c,1590,Margaret Penrose,Dorothy Dale,,l_1590,,
 s,1591,Margaret Penrose,Dorothy Dale's Great Secret,g_41558,g_41558,,1590
 s,1592,Margaret Penrose,Dorothy Dale: A Girl of To-Day,g_5629,g_5629,,1590
 s,1593,Margaret Penrose,Dorothy Dale's Camping Days,g_16091,g_16091,,1590
-s,1594,Margaret Penrose,Dorothy Dale - A Girl of Today,g_28943,g_28943,,1590
 s,1595,Margaret Penrose,Dorothy Dale in the City,g_38555,g_38555,,1590
 s,1596,Margaret Penrose,Dorothy Dale's Queer Holidays,g_15653,g_15653,,1590
 s,1597,Margaret Penrose,Dorothy Dale's Promise,g_54021,g_54021,,1590
