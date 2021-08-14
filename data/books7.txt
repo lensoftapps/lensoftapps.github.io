@@ -1,0 +1,696 @@
+c,1860,Irene Elliott Benson,Campfire Girls by Irene Elliott Benson,,l_1860,,
+s,1861,Irene Elliott Benson,Campfire Girls' Lake Camp; Or Searching for New Adventures,g_58712,g_58712,,1860
+s,1862,Irene Elliott Benson,How Ethel Hollister Became a Campfire Girl,g_20106,g_20106,,1860
+s,1863,Irene Elliott Benson,Ethel Hollister's Second Summer as a Campfire Girl,g_14169,g_14169,,1860
+c,1870,Archibald Lee Fletcher,Boy Scouts by Archibald Lee Fletcher,,l_1870,,
+s,1871,Archibald Lee Fletcher,Boy Scouts on the Great Divide; Or The Ending of the Trail,g_31487,g_31487,,1870
+s,1872,Archibald Lee Fletcher,Boy Scouts on a Long Hike; Or To the Rescue in the Black Water Swamps,g_18952,g_18952,,1870
+s,1873,Archibald Lee Fletcher,Boy Scouts in the Coal Caverns; Or The Light in Tunnel Six,g_6338,g_6338,,1870
+s,1874,Archibald Lee Fletcher,Boy Scouts in Northern Wilds; Or The Signal from the Hills,g_12526,g_12526,,1870
+c,1880,Cyril Burleigh,The Hilltop Boys,,l_1880,,
+s,1881,Cyril Burleigh,The Hilltop Boys on Lost Island,g_14879,g_14879,,1880
+s,1882,Cyril Burleigh,The Hilltop Boys on the River,g_12943,g_12943,,1880
+s,1883,Cyril Burleigh,The Hilltop Boys: A Story of School Life,g_27751,g_27751,,1880
+c,1890,Mabel C. Hawley,Four Little Blossoms,,l_1890,,
+s,1891,Mabel C. Hawley,Four Little Blossoms at Brookside Farm,g_29598,g_29598,,1890
+s,1892,Mabel C. Hawley,Four Little Blossoms at Oak Hill School,g_28878,g_28878,,1890
+s,1893,Mabel C. Hawley,Four Little Blossoms on Apple Tree Island,g_5254,g_5254,,1890
+s,1894,Mabel C. Hawley,Four Little Blossoms and Their Winter Fun,g_15655,g_15655,,1890
+c,1900,Herbert Carter,The Boy Scouts by Herbert Carter,,l_1900,,
+s,1901,Herbert Carter,The Boy Scouts at the Battle of Saratoga: The Story of General Burgoyne's Defeat,g_47037,g_47037,,1900
+s,1902,Herbert Carter,The Boy Scouts Down in Dixie; Or The Strange Secret of Alligator Swamp,g_48251,g_48251,,1900
+s,1903,Herbert Carter,The Boy Scouts' First Camp Fire; Or Scouting with the Silver Fox Patrol,g_20434,g_20434,,1900
+s,1904,Herbert Carter,The Boy Scouts in the Maine Woods; Or The New Test for the Silver Fox Patrol,g_31389,g_31389,,1900
+s,1905,Herbert Carter,The Boy Scouts Afoot in France; Or With the Red Cross Corps at the Marne,g_47358,g_47358,,1900
+s,1906,Herbert Carter,The Boy Scouts on the Trail; Or Scouting through the Big Game Country,g_45028,g_45028,,1900
+s,1907,Herbert Carter,The Boy Scouts in the Rockies; Or The Secret of the Hidden Silver Mine,g_32354,g_32354,,1900
+s,1908,Herbert Carter,The Boy Scouts in the Blue Ridge; Or Marooned Among the Moonshiners,g_32240,g_32240,,1900
+s,1909,Herbert Carter,The Boy Scouts Along the Susquehanna; Or The Silver Fox Patrol Caught in a Flood,g_45667,g_45667,,1900
+s,1910,Herbert Carter,The Boy Scouts on War Trails in Belgium; Or Caught Between Hostile Armies,g_46968,g_46968,,1900
+s,1911,Herbert Carter,The Boy Scouts Through the Big Timber; Or The Search for the Lost Tenderfoot,g_44882,g_44882,,1900
+s,1912,Herbert Carter,The Boy Scouts on Sturgeon Island; Or Marooned Among the Game-fish Poachers,g_8067,g_8067,,1900
+b,1920,Harry Moore,The Liberty Boys Running the Blockade; Or Getting Out of New York, g_22902, g_22902,,
+c,1930,Robert Shaler,The Boy Scouts by Robert Shaler,,l_1930,,
+s,1931,Robert Shaler,The Boy Scouts at Mobilization Camp,g_50224,g_50224,,1930
+s,1932,Robert Shaler,The Boy Scouts of the Life Saving Crew,g_48164,g_48164,,1930
+s,1933,Robert Shaler,The Boy Scouts of the Signal Corps,g_48999,g_48999,,1930
+s,1934,Robert Shaler,The Boy Scouts as Forest Fire Fighters,g_49967,g_49967,,1930
+s,1935,Robert Shaler,The Boy Scouts of the Naval Reserve,g_48410,g_48410,,1930
+s,1936,Robert Shaler,The Boy Scouts for City Improvement,g_49338,g_49338,,1930
+s,1937,Robert Shaler,The Boy Scouts in the Saddle,g_49269,g_49269,,1930
+s,1938,Robert Shaler,The Boy Scouts of the Geological Survey,g_12945,g_12945,,1930
+s,1939,Robert Shaler,The Boy Scouts as County Fair Guides,g_49798,g_49798,,1930
+s,1940,Robert Shaler,The Boy Scouts with the Red Cross,g_49799,g_49799,,1930
+s,1941,Robert Shaler,The Boy Scouts with the Motion Picture Players,g_12948,g_12948,,1930
+s,1942,Robert Shaler,The Boy Scouts for Home Protection,g_50192,g_50192,,1930
+s,1943,Robert Shaler,The Boy Scouts and the Prize Pennant,g_49117,g_49117,,1930
+s,1944,Robert Shaler,The Boy Scouts of the Field Hospital,g_49676,g_49676,,1930
+s,1945,Robert Shaler,The Boy Scouts on Picket Duty,g_12946,g_12946,,1930
+s,1946,Robert Shaler,The Boy Scouts in the Great Flood,g_48948,g_48948,,1930
+s,1947,Robert Shaler,The Boy Scouts on the Roll of Honor,g_49983,g_49983,,1930
+s,1948,Robert Shaler,The Boy Scouts of the Flying Squadron,g_12947,g_12947,,1930
+c,1950,Laura Dent Crane,The Automobile Girls,,l_1950,,
+s,1951,Laura Dent Crane,The Automobile Girls Along the Hudson; Or Fighting Fire in Sleepy Hollow,g_37454,g_37454,,1950
+s,1952,Laura Dent Crane,The Automobile Girls at Chicago; Or Winning Out Against Heavy Odds,g_32437,g_32437,,1950
+s,1953,Laura Dent Crane,The Automobile Girls in the Berkshires; Or The Ghost of Lost Man's Trail,g_25811,g_25811,,1950
+s,1954,Laura Dent Crane,The Automobile Girls at Palm Beach; Or Proving Their Mettle Under Southern Skies,g_38123,g_38123,,1950
+s,1955,Laura Dent Crane,The Automobile Girls at Newport; Or Watching the Summer Parade,g_36273,g_36273,,1950
+s,1956,Laura Dent Crane,The Automobile Girls at Washington; Or Checkmating the Plots of Foreign Spies,g_12559,g_12559,,1950
+c,1960,John Blaine,The Boy Scouts by John Blaine,,l_1960,,
+s,1961,John Blaine,The Boy Scouts In Russia,g_16544,g_16544,,1960
+s,1962,John Blaine,The Boy Scouts on a Submarine,g_6339,g_6339,,1960
+b,1970,I. T. Thurston,The Bishop's Shadow,g_8413,g_8413,,
+b,1971,I. T. Thurston,The Torch Bearer: A Camp Fire Girls' Story,g_23987,g_23987,,
+b,1972,I. T. Thurston,Boys of the Central: A High-School Story,g_63156,g_63156,,
+c,1980,Lilian Garis,The Girl Scouts by Lilian Garis,,l_1980,,
+s,1981,Lilian Garis,The Girl Scouts at Rocky Ledge; Or Nora's Real Vacation,g_38608,g_38608,,1980
+s,1982,Lilian Garis,The Girl Scouts at Camp Comalong; Or Peg of Tamarack Hills,g_38030,g_38030,,1980
+s,1983,Lilian Garis,The Girl Scouts at Sea Crest; Or the Wig Wag Rescue,g_28855,g_28855,,1980
+s,1984,Lilian Garis,The Girl Scout Pioneers; Or Winning the First B. C.,g_5263,g_5263,,1980
+s,1985,Lilian Garis,The Girl Scouts at Bellaire; Or Maid Mary's Awakening,g_25626,g_25626,,1980
+c,1990,Lilian Garis,Gloria,,l_1990,,
+s,1991,Lilian Garis,Gloria at Boarding School,g_65271,g_65271,,1990
+s,1992,Lilian Garis,Gloria: A Girl and Her Dad,g_59354,g_59354,,1990
+c,2000,Lilian Garis,Nancy Brandon,,l_2000,,
+s,2001,Lilian Garis,Nancy Brandon's Mystery,g_56894,g_56894,,2000
+s,2002,Lilian Garis,Nancy Brandon,g_45497,g_45497,,2000
+c,2010,Margaret Vandercook,The Red Cross Girls,,l_2010,,
+s,2011,Margaret Vandercook,The Red Cross Girls in the British Trenches,g_60154,g_60154,,2010
+s,2012,Margaret Vandercook,The Red Cross Girls with the Russian Army,g_22095,g_22095,,2010
+s,2013,Margaret Vandercook,The Red Cross Girls with Pershing to Victory,g_33990,g_33990,,2010
+s,2014,Margaret Vandercook,The Red Cross Girls on the French Firing Line,g_60265,g_60265,,2010
+s,2015,Margaret Vandercook,The Red Cross Girls in Belgium,g_53730,g_53730,,2010
+c,2020,Margaret Vandercook,The Camp Fire Girls by Margaret Vandercook,,l_2020,,
+s,2021,Margaret Vandercook,The Camp Fire Girls' Careers,g_36229,g_36229,,2020
+s,2022,Margaret Vandercook,The Camp Fire Girls at the End of the Trail,g_42206,g_42206,,2020
+s,2023,Margaret Vandercook,The Camp Fire Girls Behind the Lines,g_33532,g_33532,,2020
+s,2024,Margaret Vandercook,The Camp Fire Girls in After Years,g_34926,g_34926,,2020
+s,2025,Margaret Vandercook,The Camp Fire Girls in the Outside World,g_22938,g_22938,,2020
+s,2026,Margaret Vandercook,The Camp Fire Girls by the Blue Lagoon,g_53200,g_53200,,2020
+s,2027,Margaret Vandercook,The Camp Fire Girls Amid the Snows,g_45657,g_45657,,2020
+s,2028,Margaret Vandercook,The Camp Fire Girls in Glorious France,g_45236,g_45236,,2020
+s,2029,Margaret Vandercook,The Camp Fire Girls at Half Moon Lake,g_57508,g_57508,,2020
+s,2030,Margaret Vandercook,The Camp Fire Girls Across the Seas,g_33806,g_33806,,2020
+s,2031,Margaret Vandercook,The Camp Fire Girls on the Field of Honor,g_31393,g_31393,,2020
+s,2032,Margaret Vandercook,The Camp Fire Girls at Sunrise Hill,g_8662,g_8662,,2020
+c,2040,Margaret Vandercook,The Ranch Girls,,l_2040,,
+s,2041,Margaret Vandercook,The Ranch Girls and Their Great Adventure,g_34927,g_34927,,2040
+s,2042,Margaret Vandercook,The Ranch Girls at Rainbow Lodge,g_33409,g_33409,,2040
+s,2043,Margaret Vandercook,The Ranch Girls in Europe,g_34929,g_34929,,2040
+s,2044,Margaret Vandercook,The Ranch Girls at Boarding School,g_56097,g_56097,,2040
+s,2045,Margaret Vandercook,The Ranch Girls' Pot of Gold,g_33656,g_33656,,2040
+s,2046,Margaret Vandercook,The Ranch Girls and Their Heart's Desire,g_37271,g_37271,,2040
+s,2047,Margaret Vandercook,The Ranch Girls at Home Again,g_34928,g_34928,,2040
+c,2050,Margaret Vandercook,The Girl Scouts by Margaret Vandercook,,l_2050,,
+s,2051,Margaret Vandercook,The Girl Scouts in Beechwood Forest,g_25801,g_25801,,2050
+s,2052,Margaret Vandercook,The Girl Scouts of the Round Table,g_53573,g_53573,,2050
+c,2060,Willard F. Baker,The Boy Ranchers,,l_2060,,
+s,2061,Willard F. Baker,The Boy Ranchers in Camp; Or The Water Fight at Diamond X,g_27094,g_27094,,2060
+s,2062,Willard F. Baker,The Boy Ranchers at Spur Creek; Or Fighting the Sheep Herders,g_27095,g_27095,,2060
+s,2063,Willard F. Baker,The Boy Ranchers on Roaring River; Or Diamond X and the Chinese Smugglers,g_27096,g_27096,,2060
+s,2064,Willard F. Baker,The Boy Ranchers; Or Solving the Mystery at Diamond X,g_27093,g_27093,,2060
+s,2065,Willard F. Baker,The Boy Ranchers in Death Valley; Or Diamond X and the Poison Mystery,g_27097,g_27097,,2060
+s,2066,Willard F. Baker,The Boy Ranchers on the Trail; Or The Diamond X After Cattle Rustlers,g_6573,g_6573,,2060
+s,2067,Willard F. Baker,The Boy Ranchers Among the Indians; Or Trailing the Yaquis,g_19930,g_19930,,2060
+b,2070,Willard F. Baker,Bob Dexter and the Storm Mountain Mystery; Or The Secret of the Log Cabin,g_48124,g_48124,,
+c,2080,Gordon Stuart,Boy Scouts by Gordon Stuart,,l_2080,,
+s,2081,Gordon Stuart,Boy Scouts of the Air on Lost Island,g_6827,g_6827,,2080
+s,2082,Gordon Stuart,The Boy Scouts of the Air in Indian Land,g_35808,g_35808,,2080
+b,2090,Gordon Stuart,Hal Kenyon Disappears,g_45547,g_45547,,
+c,2100,Ralph Victor,The Boy Scouts by Ralph Victor,,l_2100,,
+s,2101,Ralph Victor,Comrades on River and Lake,g_40585,g_40585,,2100
+s,2102,Ralph Victor,The Boy Scouts on the Yukon,g_26257,g_26257,,2100
+s,2103,Ralph Victor,The Boy Scouts Patrol,g_5602,g_5602,,2100
+c,2110,John Luther Langworthy,The Aeroplane Boys,,l_2110,,
+s,2111,John Luther Langworthy,The Aeroplane Boys Flight; Or A Hydroplane Roundup,g_10576,g_10576,,2110
+s,2112,John Luther Langworthy,The Airplane Boys among the Clouds; Or Young Aviators in a Wreck,g_22031,g_22031,,2110
+s,2113,John Luther Langworthy,The Aeroplane Boys on the Wing; Or Aeroplane Chums in the Tropics,g_10698,g_10698,,2110
+c,2120,Katherine Stokes,The Motor Maids,,l_2120,,
+s,2121,Katherine Stokes,The Motor Maids Across the Continent,g_37433,g_37433,,2120
+s,2122,Katherine Stokes,The Motor Maids' School Days,g_37434,g_37434,,2120
+s,2123,Katherine Stokes,The Motor Maids by Palm and Pine,g_36320,g_36320,,2120
+s,2124,Katherine Stokes,The Motor Maids by Rose Shamrock and Thistle,g_35857,g_35857,,2120
+s,2125,Katherine Stokes,The Motor Maids at Sunrise Camp,g_23645,g_23645,,2120
+s,2126,Katherine Stokes,The Motor Maids in Fair Japan,g_13450,g_13450,,2120
+c,2130,Mark Overton,Jack Winters,,l_2130,,
+s,2131,Mark Overton,Jack Winters' Campmates,g_30958,g_30958,,2130
+s,2132,Mark Overton,Jack Winters' Baseball Team; Or The Rivals of the Diamond,g_31396,g_31396,,2130
+s,2133,Mark Overton,Jack Winters' Gridiron Chums,g_6121,g_6121,,2130
+c,2140,Multiple,Christmas Stories,,l_2140,,
+s,2141,Charles Dickens,A Christmas Carol in Prose; Being a Ghost Story of Christmas,g_46,g_46,,2140
+s,2142,Charles Dickens,A Christmas Carol,g_19337,g_19337,,2140
+s,2143,O. Henry,The Gift of the Magi,g_7256,g_7256,,2140
+s,2144,Charles Dickens,A Christmas Carol,g_24022,g_24022,,2140
+s,2145,Clement Clarke Moore,Twas the Night before Christmas: A Visit from St. Nicholas,g_17135,g_17135,,2140
+s,2146,Stella M. Francis,Campfire Girls in the Allegheny Mountains; or A Christmas Success against Odds,g_15133,g_15133,,2140
+s,2147,Charles Dickens,The Haunted Man and the Ghost's Bargain,g_644,g_644,,2140
+s,2148,Charles Dickens,Some Christmas Stories,g_1467,g_1467,,2140
+s,2149,W. F. Dawson,Christmas: Its Origin and Associations,g_22042,g_22042,,2140
+s,2150,L. Frank Baum,The Life and Adventures of Santa Claus,g_520,g_520,,2140
+s,2151,Walter Ben Hare,The White Christmas and other Merry Christmas Plays,g_19826,g_19826,,2140
+s,2152,Unknown Author,The Children's Book of Christmas Stories,g_5061,g_5061,,2140
+s,2153,Washington Irving,Old Christmas: from the Sketch Book of Washington Irving,g_20656,g_20656,,2140
+s,2154,Various,A Christmas Hamper: A Volume of Pictures and Stories for Little Folks,g_53299,g_53299,,2140
+s,2155,Clement A. Miles,Christmas in Ritual and Tradition Christian and Pagan,g_19098,g_19098,,2140
+s,2156,Unknown Author,A Budget of Christmas Tales by Charles Dickens and Others,g_28198,g_28198,,2140
+s,2157,Charles Dickens,The Battle of Life,g_676,g_676,,2140
+s,2158,L. Frank Baum,A Kidnapped Santa Claus,g_519,g_519,,2140
+s,2159,Various,The Night Before Christmas and Other Popular Stories For Children,g_13213,g_13213,,2140
+s,2160,Louisa May Alcott,The Abbot's Ghost or Maurice Treherne's Temptation: A Christmas Story,g_8694,g_8694,,2140
+s,2161,Clement Clarke Moore,A Visit From Saint Nicholas,g_17382,g_17382,,2140
+s,2162,Alice Duer Miller,The Burglar and the Blizzard: A Christmas Story,g_14835,g_14835,,2140
+s,2163,Unknown Author,The Pearl Story Book: Stories and Legends of Winter Christmas and New Year's Day,g_34571,g_34571,,2140
+s,2164,Thomas K. Hervey,The Book of Christmas,g_42622,g_42622,,2140
+s,2165,Alice Maude Kellogg,Christmas Entertainments,g_12974,g_12974,,2140
+s,2166,Alice Hale Burnett,Christmas Holidays at Merryvale,g_23569,g_23569,,2140
+s,2167,John Leighton,Christmas Comes but Once a Year,g_20251,g_20251,,2140
+s,2168,Hildegard G. Frey,The Camp Fire Girls Solve a Mystery; Or The Christmas Adventure at Carver House,g_38983,g_38983,,2140
+s,2169,Sir Max Beerbohm,A Christmas Garland,g_14667,g_14667,,2140
+s,2170,C. N. Williamson and A. M. Williamson,Angel Unawares: A Story of Christmas Eve,g_42919,g_42919,,2140
+s,2171,Amy Ella Blanchard,Little Maid Marian,g_19988,g_19988,,2140
+s,2172,Zona Gale,Christmas: A Story,g_20516,g_20516,,2140
+s,2173,Thomas A. Janvier,The Christmas Kalends of Provence,g_19587,g_19587,,2140
+s,2174,John Ashton,A Righte Merrie Christmasse: The Story of Christ-Tide,g_19979,g_19979,,2140
+s,2175,Mary Roberts Rinehart,The Truce of God,g_14573,g_14573,,2140
+s,2176,William Dean Howells,Christmas Every Day and Other Stories,g_22519,g_22519,,2140
+s,2177,Harriet Beecher Stowe,Betty's Bright Idea; Deacon Pitkin's Farm; and the First Christmas of New England,g_10723,g_10723,,2140
+s,2178,C. N. Williamson and A. M. Williamson,Rosemary: A Christmas story,g_17743,g_17743,,2140
+s,2179,Grace S. Richmond,On Christmas Day In The Evening,g_19384,g_19384,,2140
+s,2180,George Manville Fenn,Christmas Penny Readings: Original Sketches for the Season,g_34665,g_34665,,2140
+s,2181,John Kendrick Bangs,A Little Book of Christmas,g_34465,g_34465,,2140
+s,2182,James Whitcomb Riley,A Defective Santa Claus,g_20181,g_20181,,2140
+s,2183,William Sandys,Christmastide: Its History Festivities and Carols,g_47956,g_47956,,2140
+s,2184,Pedro J. Lemos,Gift Card Designing,g_51700,g_51700,,2140
+s,2185,Willis Boyd Allen,Around the Yule Log,g_43008,g_43008,,2140
+s,2186,Henry Van Dyke,The Story of the Other Wise Man,g_19608,g_19608,,2140
+s,2187,Eleanor Hallowell Abbott,Peace on Earth Good-will to Dogs,g_20213,g_20213,,2140
+s,2188,Eugene Field,Christmas Tales and Christmas Verse,g_17630,g_17630,,2140
+s,2189,Cyrus Townsend Brady,And Thus He Came: A Christmas Fantasy,g_14606,g_14606,,2140
+s,2190,H. C. Andersen,A Christmas Greeting: A Series of Stories,g_31103,g_31103,,2140
+s,2191,Cyrus Townsend Brady,A Little Book for Christmas,g_15343,g_15343,,2140
+s,2192,Martha Finley,Christmas with Grandma Elsie,g_14534,g_14534,,2140
+s,2193,Grace S. Richmond,On Christmas Day in the Morning,g_20187,g_20187,,2140
+s,2194,Harrison S. Morris,In The Yule-Log Glow Book IV,g_20956,g_20956,,2140
+s,2195,Unknown Author,Yule-Tide Yarns,g_49229,g_49229,,2140
+s,2196,William Makepeace Thackeray,The Christmas Books of Mr. M.A. Titmarsh,g_2731,g_2731,,2140
+s,2197,Unknown Author,In The Yule-Log Glow—Book 3,g_20586,g_20586,,2140
+s,2198,Edward Everett Hale, Who Ate the Pink Sweetmeat And Other Christmas Stories,g_48747,g_48747,,2140
+s,2199,Meredith Nicholson,A Reversible Santa Claus,g_15044,g_15044,,2140
+s,2200,Leona Dalrymple,Uncle Noah's Christmas Inspiration,g_15826,g_15826,,2140
+s,2201,Maria J. McIntosh,Evenings at Donaldson Manor; Or The Christmas Guest,g_20018,g_20018,,2140
+s,2202,Arthur Quiller-Couch,Shakespeare's Christmas and other stories,g_54274,g_54274,,2140
+s,2203,Unknown Author,Christmas Stories from French and Spanish Writers,g_47333,g_47333,,2140
+s,2204,Edward Everett Hale,Christmas Eve and Christmas Day: Ten Christmas stories,g_32455,g_32455,,2140
+s,2205,Irving Bacheller,The Prodigal Village: A Christmas Tale,g_44796,g_44796,,2140
+s,2206,Abbie Farwell Brown,The Christmas Angel,g_15709,g_15709,,2140
+s,2207,Unknown Author,Christmas Stories And Legends,g_17770,g_17770,,2140
+s,2208,Unknown Author,Christmas in Poetry: Carols and Poems,g_44524,g_44524,,2140
+s,2209,Robert Louis Stevenson,A Christmas Sermon,g_14535,g_14535,,2140
+s,2210,Mary Poague Pringle and Clara A. Urann,Yule-Tide in Many Lands,g_18570,g_18570,,2140
+s,2211,Jr. Horatio Alger,Bertha's Christmas Vision: An Autumn Sheaf,g_56222,g_56222,,2140
+s,2212,Lucia Prudence Hall Woodbury,The Potato Child and Others,g_5662,g_5662,,2140
+s,2213,Hesba Stretton,The Christmas Child,g_20453,g_20453,,2140
+s,2214,Coningsby Dawson,Christmas Outside of Eden,g_15552,g_15552,,2140
+s,2215,Henry Van Dyke,The First Christmas Tree: A Story of the Forest,g_16134,g_16134,,2140
+s,2216,Kate Douglas Smith Wiggin,The Old Peabody Pew: A Christmas Romance of a Country Church,g_1902,g_1902,,2140
+s,2217,Walter Crane,A Winter Nosegay: Being Tales for Children at Christmastide,g_39358,g_39358,,2140
+s,2218,John D. MacDonald,Telephoning to Santa Claus,g_53655,g_53655,,2140
+s,2219,Thomas Cooper,The Baron's Yule Feast: A Christmas Rhyme,g_29722,g_29722,,2140
+s,2220,Lilian Gask,The Fairies and the Christmas Child,g_37547,g_37547,,2140
+s,2221,Shepherd Knapp,Down the Chimney,g_14785,g_14785,,2140
+s,2222,Various,Christmas Sunshine,g_20378,g_20378,,2140
+s,2223,William John Locke,A Christmas Mystery: The Story of Three Wise Men,g_10707,g_10707,,2140
+s,2224,Kate Douglas Smith Wiggin,The Romance of a Christmas Card,g_17456,g_17456,,2140
+s,2225,Laura Lee Hope,The Story of a Stuffed Elephant,g_19425,g_19425,,2140
+s,2226,Laura Lee Hope,Six Little Bunkers at Grandpa Ford's,g_17761,g_17761,,2140
+s,2227,Arnold Bennett,The Feast of St. Friend,g_14653,g_14653,,2140
+s,2228,Unknown Author,In the Yule-Log Glow Book II,g_19084,g_19084,,2140
+s,2229,Various,Christmas Carols and Midsummer Songs,g_45294,g_45294,,2140
+s,2230,Henry Van Dyke,The Spirit of Christmas,g_14572,g_14572,,2140
+s,2231,Sarah P. Doughty,Playing Santa Claus and Other Christmas Tales,g_54803,g_54803,,2140
+s,2232,Ellis Parker Butler,The Thin Santa Claus: The Chicken Yard That Was a Christmas Stocking,g_17937,g_17937,,2140
+s,2233,Thomas Nelson Page,A Captured Santa Claus,g_33666,g_33666,,2140
+s,2234,Annie Eliot Trumbull,A Christmas Accident and Other Stories,g_28307,g_28307,,2140
+s,2235,Peter Christen Asbjornsen,'Round the yule-log: Christmas in Norway,g_31993,g_31993,,2140
+s,2236,Unknown Author,Christmas,g_18908,g_18908,,2140
+s,2237,Berthold Auerbach,Christian Gellert's Last Christmas,g_22665,g_22665,,2140
+s,2238,Unknown Author,Under the Holly: Christmas-Tide in Song and Story,g_51719,g_51719,,2140
+s,2239,Mary Stuart Boyd,A Versailles Christmas-Tide,g_10813,g_10813,,2140
+s,2240,Rupert Hughes,Mrs. Budlong's Christmas Presents,g_12881,g_12881,,2140
+s,2241,Various,Punch or the London Charivari,g_13244,g_13244,,2140
+s,2242,Mary Stewart Cutting,The Blossoming Rod,g_14946,g_14946,,2140
+s,2243,Robert Browning,Christmas Eve,g_6670,g_6670,,2140
+s,2244,James H. Snowden,A Wonderful Night; An Interpretation of Christmas,g_14629,g_14629,,2140
+s,2245,Laura Lee Hope,The Story of a Nodding Donkey,g_17679,g_17679,,2140
+s,2246,Samuel McChord Crothers,By the Christmas Fire,g_20953,g_20953,,2140
+s,2247,Alicia Catherine Mant,Christmas A Happy Time,g_20200,g_20200,,2140
+s,2248,Elizabeth Anderson,The Goblins' Christmas,g_21784,g_21784,,2140
+s,2249,Henry Van Dyke,The Lost Word: A Christmas Legend of Long Ago,g_4384,g_4384,,2140
+s,2250,Samuel W. Francis,A Christmas Story,g_18770,g_18770,,2140
+s,2251,James Lane Allen,The Doctor's Christmas Eve,g_42923,g_42923,,2140
+s,2252,Joseph Hocking,The Weapons of Mystery,g_13158,g_13158,,2140
+s,2253,Unknown Author,In the Yule-Log Glow Book I,g_18720,g_18720,,2140
+s,2254,H. S. Armstrong,Trifles for the Christmas Holidays,g_17562,g_17562,,2140
+s,2255,S. Weir Mitchell,Mr. Kris Kringle: A Christmas Tale,g_20180,g_20180,,2140
+s,2256,Josephine Scribner Gates,The Story of the Mince Pie,g_55143,g_55143,,2140
+s,2257,Theodore Parker,Two Christmas Celebrations,g_17006,g_17006,,2140
+s,2258,Shepherd Knapp,Up the Chimney,g_14786,g_14786,,2140
+s,2259,Jacob A. Riis,Is There a Santa Claus?,g_31996,g_31996,,2140
+s,2260,Shepherd Knapp,The Christmas Dinner,g_14508,g_14508,,2140
+s,2261,Elva Sophronia Smith,Christmas in Legend and Story: A Book for Boys and Girls,g_11014,g_11014,,2140
+s,2262,Annie Roe Carr,Nan Sherwood's Winter Holidays; Or Rescuing the Runaways,g_12610,g_12610,,2140
+s,2263,Thomas Nelson Page,Santa Claus's Partner,g_14624,g_14624,,2140
+s,2264,Anna Benneson McMahan,Shakespeare's Christmas Gift to Queen Bess,g_20210,g_20210,,2140
+s,2265,Edward Eggleston,Mr. Blake's Walking-Stick: A Christmas Story for Boys and Girls,g_52935,g_52935,,2140
+s,2266,Leona Dalrymple,When the Yule Log Burns: A Christmas Story,g_17510,g_17510,,2140
+s,2267,Rupert Hughes,Colonel Crockett's Co-operative Christmas,g_22696,g_22696,,2140
+s,2268,Jacob A. Riis,Nibsy's Christmas,g_19014,g_19014,,2140
+s,2269,Florence L. Barclay,The Upas Tree: A Christmas Story for all the Year,g_16454,g_16454,,2140
+s,2270,Blanche Proctor Fisher,Santa Claus Gets His Wish: A Christmas Play in One Act For Young Children,g_51180,g_51180,,2140
+s,2271,Charles A. Gunnison,A Napa Christchild; and Benicia's Letters,g_18725,g_18725,,2140
+c,2280,Multiple,Fairy Tales,,l_2280,,
+s,2281,H. C. Andersen,Andersen's Fairy Tales,g_1597,g_1597,,2280
+s,2282,James Stephens,Irish Fairy Tales,g_2892,g_2892,,2280
+s,2283,Yei Theodora Ozaki,Japanese Fairy Tales,g_4018,g_4018,,2280
+s,2284,Unknown Author,Favorite Fairy Tales,g_20748,g_20748,,2280
+s,2285,Padraic Colum,The Children of Odin: The Book of Northern Myths,g_24737,g_24737,,2280
+s,2286,Unknown Author,Indian Fairy Tales,g_7128,g_7128,,2280
+s,2287,Unknown Author,English Fairy Tales,g_7439,g_7439,,2280
+s,2288,Unknown Author,Russian Fairy Tales: A Choice Collection of Muscovite Folk-lore,g_22373,g_22373,,2280
+s,2289,Jennie Hall,Viking Tales,g_24811,g_24811,,2280
+s,2290,E. Louise Smythe,A Primary Reader: Old-time Stories Fairy Tales and Myths Retold by Children,g_7841,g_7841,,2280
+s,2291,Jean Lang,A Book of Myths,g_22693,g_22693,,2280
+s,2292,Unknown Author,Fairy Tales Every Child Should Know,g_14916,g_14916,,2280
+s,2293,Charles Kingsley,The Heroes; Or Greek Fairy Tales for My Children,g_677,g_677,,2280
+s,2294,Flora Annie Webster Steel,English Fairy Tales,g_17034,g_17034,,2280
+s,2295,L. Frank Baum,American Fairy Tales,g_4357,g_4357,,2280
+s,2296,Norman Hinsdale Pitman,A Chinese Wonder Book,g_18674,g_18674,,2280
+s,2297,Henry Gilbert,King Arthur's Knights,g_22396,g_22396,,2280
+s,2298,William Elliot Griffis,Dutch Fairy Tales for Young Folks,g_7871,g_7871,,2280
+s,2299,Unknown Author,Celtic Fairy Tales,g_7885,g_7885,,2280
+s,2300,Unknown Author,More English Fairy Tales,g_14241,g_14241,,2280
+s,2301,Unknown Author,The Cat and the Mouse: A Book of Persian Fairy Tales,g_24473,g_24473,,2280
+s,2302,Mabel Powers,Stories the Iroquois Tell Their Children,g_22096,g_22096,,2280
+s,2303,Elsie Spicer Eells,Fairy Tales from Brazil: How and Why Tales from Brazilian Folk-Lore,g_24714,g_24714,,2280
+s,2304,Edric Vredenburg,My Book of Favourite Fairy Tales,g_15145,g_15145,,2280
+s,2305,Parker Fillmore,The Laughing Prince: Jugoslav Folk and Fairy Tales,g_19713,g_19713,,2280
+s,2306,Unknown Author,Folk Tales Every Child Should Know,g_15164,g_15164,,2280
+s,2307,Dinah Maria Mulock Craik,The Fairy Book,g_19734,g_19734,,2280
+s,2308,Unknown Author,Roumanian Fairy Tales,g_20552,g_20552,,2280
+s,2309,Juliana Horatia Ewing,Old-Fashioned Fairy Tales,g_15592,g_15592,,2280
+s,2310,Unknown Author,Myths That Every Child Should Know,g_16537,g_16537,,2280
+s,2311,Florence Holbrook,The Book of Nature Myths,g_22420,g_22420,,2280
+s,2312,Valerian Viliamovich Karrik,More Russian Picture Tales,g_23462,g_23462,,2280
+s,2313,Cornelius Mathews,The Indian Fairy Book: From the Original Legends,g_22248,g_22248,,2280
+s,2314,M. I. Ebbutt,Hero-Myths and Legends of the British Race,g_25502,g_25502,,2280
+s,2315,Hamilton Wright Mabie,Legends That Every Child Should Know; a Selection of the Great Legends of All Times for Young People,g_6622,g_6622,,2280
+s,2316,Wilhelm Hauff,The Oriental Story Book: A Collection of Tales,g_24593,g_24593,,2280
+s,2317,Jean de La Fontaine,Fables in Rhyme for Little Folks,g_24108,g_24108,,2280
+s,2318,Alexander Chodzko,Fairy Tales of the Slav Peasants and Herdsmen,g_25555,g_25555,,2280
+s,2319,William Elliot Griffis,Welsh Fairy Tales,g_9368,g_9368,,2280
+s,2320,Unknown Author,Welsh Fairy-Tales and Other Stories,g_8675,g_8675,,2280
+s,2321,Henry Beston,The Firelight Fairy Book,g_19207,g_19207,,2280
+s,2322,Arthur Shearly Cripps,Cinderella in the South: Twenty-Five South African Tales,g_22886,g_22886,,2280
+s,2323,E. Dixon,Fairy Tales from the Arabian Nights,g_8599,g_8599,,2280
+s,2324,Mary Esther Miller MacGregor,Stories from the Ballads Told to the Children,g_22175,g_22175,,2280
+s,2325,Edith Howes,Wonderwings and other Fairy Stories,g_20366,g_20366,,2280
+s,2326,Walter Scott and S. R. Crockett,Red Cap Tales Stolen from the Treasure Chest of the Wizard of the North,g_22656,g_22656,,2280
+s,2327,Mrs. Alfred Gatty,The Fairy Godmothers and Other Tales,g_11319,g_11319,,2280
+s,2328,Edmund Leamy,The Golden Spears,g_22168,g_22168,,2280
+c,2340,Multiple,School Stories,,l_2340,,
+s,2341,Louisa May Alcott,Little Men: Life at Plumfield With Jo's Boys,g_2788,g_2788,,2340
+s,2342,Jean Webster,Daddy-Long-Legs,g_157,g_157,,2340
+s,2343,Thomas Hughes,Tom Brown's School Days,g_1480,g_1480,,2340
+s,2344,Louisa May Alcott,Jo's Boys,g_3499,g_3499,,2340
+s,2345,P. G. Wodehouse,Mike and Psmith,g_10586,g_10586,,2340
+s,2346,P. G. Wodehouse,The Politeness of Princes and Other School Stories,g_8178,g_8178,,2340
+s,2347,P. G. Wodehouse,Mike,g_7423,g_7423,,2340
+s,2348,P. G. Wodehouse,The Pothunters,g_6984,g_6984,,2340
+s,2349,P. G. Wodehouse,Tales of St. Austin's,g_6980,g_6980,,2340
+s,2350,Susan Coolidge,What Katy Did at School,g_5141,g_5141,,2340
+s,2351,Frances Hodgson Burnett,Sara Crewe; Or What Happened at Miss Minchin's Boarding School,g_137,g_137,,2340
+s,2352,P. G. Wodehouse,The Gold Bat,g_6879,g_6879,,2340
+s,2353,P. G. Wodehouse,The Head of Kay's,g_6877,g_6877,,2340
+s,2354,P. G. Wodehouse,A Prefect's Uncle,g_6985,g_6985,,2340
+s,2355,P. G. Wodehouse,The White Feather,g_6927,g_6927,,2340
+s,2356,Talbot Baines Reed,Parkhurst Boys and Other Stories of School Life,g_21137,g_21137,,2340
+s,2357,Talbot Baines Reed,My Friend Smith: A Story of School and City Life,g_21036,g_21036,,2340
+s,2358,William Henry Giles Kingston,Ernest Bracebridge: School Days,g_21452,g_21452,,2340
+s,2359,Florence Coombe,Jack of Both Sides: The Story of a School War,g_20354,g_20354,,2340
+s,2360,L. T. Meade,The Rebel of the School,g_15839,g_15839,,2340
+s,2361,Mrs. George de Horne Vaizey,Etheldreda the Ready: A School Story,g_21118,g_21118,,2340
+s,2362,Frederick Swainson,Acton's Feud: A Public School Story,g_14772,g_14772,,2340
+s,2363,Talbot Baines Reed,The Cock-House at Fellsgarth,g_21037,g_21037,,2340
+s,2364,George Manville Fenn,Glyn Severn's Schooldays,g_21312,g_21312,,2340
+s,2365,Talbot Baines Reed,The Willoughby Captains,g_21044,g_21044,,2340
+s,2366,Talbot Baines Reed,Boycotted and Other Stories,g_21039,g_21039,,2340
+s,2367,Talbot Baines Reed,The Adventures of a Three-Guinea Watch,g_21035,g_21035,,2340
+s,2368,Mrs. George de Horne Vaizey,Tom and Some Other Girls: A Public School Story,g_21102,g_21102,,2340
+s,2369,Hildegard G. Frey,The Camp Fire Girls at School; Or The Wohelo Weavers,g_11718,g_11718,,2340
+s,2370,F. W. Farrar,Eric; Or Little by Little,g_12083,g_12083,,2340
+s,2371,Talbot Baines Reed,Follow My Leader: The Boys of Templeton,g_20991,g_20991,,2340
+s,2372,E. J. May,Louis' School Days: A Story for Boys,g_19855,g_19855,,2340
+s,2373,Frank V. Webster,The Boys of Bellwood School; Or Frank Jordan's Triumph,g_6444,g_6444,,2340
+s,2374,Harold Avery,The Triple Alliance Its Trials and Triumphs,g_10027,g_10027,,2340
+s,2375,F. E. Weatherly,Wilton School; or Harry Campbell's Revenge,g_22183,g_22183,,2340
+c,2400,G. A. Henty,Historical Fiction by G. A. Henty,,l_2400,,
+s,2401,G. A. Henty,The Treasure of the Incas: A Story of Adventure in Peru,g_7070,g_7070,,2400
+s,2402,G. A. Henty,The Young Carthaginian: A Story of The Times of Hannibal,g_5128,g_5128,,2400
+s,2403,G. A. Henty,The Dragon and the Raven; Or The Days of King Alfred,g_3674,g_3674,,2400
+s,2404,G. A. Henty,Beric the Briton : a Story of the Roman Invasion,g_7037,g_7037,,2400
+s,2405,G. A. Henty,In Freedom's Cause : A Story of Wallace and Bruce,g_4792,g_4792,,2400
+s,2406,G. A. Henty,The Boy Knight: A Tale of the Crusades,g_13354,g_13354,,2400
+s,2407,G. A. Henty,The Dash for Khartoum: A Tale of the Nile Expedition,g_21986,g_21986,,2400
+s,2408,G. A. Henty,Tales of Daring and Danger,g_7870,g_7870,,2400
+s,2409,G. A. Henty,By Pike and Dyke: a Tale of the Rise of the Dutch Republic,g_6952,g_6952,,2400
+s,2410,G. A. Henty,The Lion of the North: A Tale of the Times of Gustavus Adolphus,g_5075,g_5075,,2400
+s,2411,G. A. Henty,Rujub the Juggler,g_7229,g_7229,,2400
+s,2412,G. A. Henty,On the Irrawaddy: A Story of the First Burmese War,g_21242,g_21242,,2400
+s,2413,G. A. Henty,Wulf the Saxon: A Story of the Norman Conquest,g_8745,g_8745,,2400
+s,2414,G. A. Henty,Among Malay Pirates : a Tale of Adventure and Peril,g_7346,g_7346,,2400
+s,2415,G. A. Henty,By Right of Conquest; Or With Cortez in Mexico,g_19398,g_19398,,2400
+s,2416,G. A. Henty,Friends though divided: A Tale of the Civil War,g_11565,g_11565,,2400
+s,2417,G. A. Henty,One of the 28th: A Tale of Waterloo,g_14313,g_14313,,2400
+s,2418,G. A. Henty,With Lee in Virginia: A Story of the American Civil War,g_2805,g_2805,,2400
+s,2419,G. A. Henty,For the Temple: A Tale of the Fall of Jerusalem,g_21614,g_21614,,2400
+s,2420,G. A. Henty,A Knight of the White Cross: A Tale of the Siege of Rhodes,g_4932,g_4932,,2400
+s,2421,G. A. Henty,A Girl of the Commune,g_24244,g_24244,,2400
+s,2422,G. A. Henty,In the Reign of Terror: The Adventures of a Westminster Boy,g_3785,g_3785,,2400
+s,2423,G. A. Henty,Colonel Thorndyke's Secret,g_8155,g_8155,,2400
+s,2424,G. A. Henty,Under Drake's Flag: A Tale of the Spanish Main,g_19206,g_19206,,2400
+s,2425,G. A. Henty,A Final Reckoning: A Tale of Bush Life in Australia,g_20031,g_20031,,2400
+s,2426,G. A. Henty,At Agincourt,g_7060,g_7060,,2400
+s,2427,G. A. Henty,With Clive in India; Or The Beginnings of an Empire,g_18833,g_18833,,2400
+s,2428,G. A. Henty,At the Point of the Bayonet: A Tale of the Mahratta War,g_20729,g_20729,,2400
+s,2429,G. A. Henty,Won By the Sword : a tale of the Thirty Years' War,g_4931,g_4931,,2400
+s,2430,G. A. Henty,Both Sides the Border: A Tale of Hotspur and Glendower,g_19070,g_19070,,2400
+s,2431,G. A. Henty,Jack Archer: A Tale of the Crimea,g_11058,g_11058,,2400
+s,2432,G. A. Henty,Under Wellington's Command: A Tale of the Peninsular War,g_20207,g_20207,,2400
+s,2433,G. A. Henty,Bonnie Prince Charlie : a Tale of Fontenoy and Culloden,g_7006,g_7006,,2400
+s,2434,G. A. Henty,At Aboukir and Acre: A Story of Napoleon's Invasion of Egypt,g_22224,g_22224,,2400
+s,2435,G. A. Henty,The Cornet of Horse: A Tale of Marlborough's Wars,g_17403,g_17403,,2400
+s,2436,G. A. Henty,Winning His Spurs: A Tale of the Crusades,g_12308,g_12308,,2400
+s,2437,G. A. Henty,The Tiger of Mysore: A Story of the War with Tippoo Saib,g_18813,g_18813,,2400
+s,2438,G. A. Henty,A Jacobite Exile,g_18357,g_18357,,2400
+s,2439,G. A. Henty,By Sheer Pluck: A Tale of the Ashanti War,g_8576,g_8576,,2400
+s,2440,G. A. Henty,The Tiger of Mysore: A Story of the War with Tippoo Saib,g_18813,g_18813,,2400
+s,2441,G. A. Henty,With Lee in Virginia: A Story of the American Civil War,g_19154,g_19154,,2400
+s,2442,G. A. Henty,In the Heart of the Rockies: A Story of Adventure in Colorado,g_8670,g_8670,,2400
+s,2443,G. A. Henty,No Surrender! A Tale of the Rising in La Vendee,g_20091,g_20091,,2400
+s,2444,G. A. Henty,The Lion of Saint Mark: A Story of Venice in the Fourteenth Century,g_17546,g_17546,,2400
+s,2445,G. A. Henty,With Moore at Corunna,g_8651,g_8651,,2400
+s,2446,G. A. Henty,With Frederick the Great: A Story of the Seven Years' War,g_19714,g_19714,,2400
+s,2447,G. A. Henty,Held Fast For England: A Tale of the Siege of Gibraltar (1779-83),g_21788,g_21788,,2400
+s,2448,G. A. Henty,Through the Fray: A Tale of the Luddite Riots,g_8732,g_8732,,2400
+s,2449,G. A. Henty,Saint Bartholomew's Eve: A Tale of the Huguenot Wars,g_20092,g_20092,,2400
+s,2450,G. A. Henty,With Wolfe in Canada: The Winning of a Continent,g_17766,g_17766,,2400
+s,2451,G. A. Henty,A March on London: Being a Story of Wat Tyler's Insurrection,g_7061,g_7061,,2400
+s,2452,G. A. Henty,The Young Franc Tireurs and Their Adventures in the Franco-Prussian War,g_22060,g_22060,,2400
+s,2453,G. A. Henty,Through Three Campaigns: A Story of Chitral Tirah and Ashanti,g_20641,g_20641,,2400
+s,2454,G. A. Henty,Orange and Green: A Tale of the Boyne and Limerick,g_18356,g_18356,,2400
+s,2455,G. A. Henty,St. George for England,g_3429,g_3429,,2400
+s,2456,G. A. Henty,In the Irish Brigade: A Tale of War in Flanders and Spain,g_18349,g_18349,,2400
+s,2457,G. A. Henty,True to the Old Flag: A Tale of the American War of Independence,g_8859,g_8859,,2400
+s,2458,G. A. Henty,By England's Aid; or the Freeing of the Netherlands (1585-1604),g_6953,g_6953,,2400
+s,2459,G. A. Henty,The Young Buglers,g_9613,g_9613,,2400
+s,2460,G. A. Henty,When London Burned : a Story of Restoration Times and the Great Fire,g_7831,g_7831,,2400
+s,2461,G. A. Henty,With Kitchener in the Soudan: A Story of Atbara and Omdurman,g_18868,g_18868,,2400
+s,2462,G. A. Henty,The Bravest of the Brave — or with Peterborough in Spain,g_7318,g_7318,,2400
+s,2463,G. A. Henty,With Buller in Natal Or a Born Leader,g_7334,g_7334,,2400
+s,2464,G. A. Henty,In Times of Peril: A Tale of India,g_7071,g_7071,,2400
+s,2465,G. A. Henty,By England's Aid; Or the Freeing of the Netherlands 1585-1604,g_8679,g_8679,,2400
+s,2466,G. A. Henty,For Name and Fame; Or Through Afghan Passes,g_21979,g_21979,,2400
+s,2467,G. A. Henty,The Queen's Cup,g_17436,g_17436,,2400
+s,2468,G. A. Henty,On the Pampas; Or The Young Settlers,g_6472,g_6472,,2400
+s,2469,G. A. Henty,The Golden Canyon,g_11609,g_11609,,2400
+c,2480,E. Nesbit,Stories by E. Nesbit,,l_2480,,
+s,2481,E. Nesbit,The Railway Children,g_1874,g_1874,,2480
+s,2482,E. Nesbit,The Story of the Treasure Seekers,g_770,g_770,,2480
+s,2483,E. Nesbit,The Phoenix and the Carpet,g_836,g_836,,2480
+s,2484,E. Nesbit,The Story of the Amulet,g_837,g_837,,2480
+s,2485,E. Nesbit,The Enchanted Castle,g_3536,g_3536,,2480
+s,2486,E. Nesbit,The Magic City,g_20606,g_20606,,2480
+s,2487,E. Nesbit,The Wouldbegoods: Being the Further Adventures of the Treasure Seekers,g_794,g_794,,2480
+c,2490,R. M. Ballantyne,Stories by R. M. Ballantyne,,l_2490,,
+s,2491,R. M. Ballantyne,The Coral Island: A Tale of the Pacific Ocean,g_646,g_646,,2490
+s,2492,R. M. Ballantyne,The Coral Island,g_21721,g_21721,,2490
+s,2493,R. M. Ballantyne,My Doggie and I,g_21752,g_21752,,2490
+s,2494,R. M. Ballantyne,Black Ivory,g_21748,g_21748,,2490
+s,2495,R. M. Ballantyne,The Giant of the North: Pokings Round the Pole,g_21733,g_21733,,2490
+s,2496,R. M. Ballantyne,The Garret and the Garden; Or Low Life High Up,g_21737,g_21737,,2490
+s,2497,R. M. Ballantyne,Hunting the Lions,g_21739,g_21739,,2490
+s,2498,R. M. Ballantyne,The Gorilla Hunters,g_21736,g_21736,,2490
+s,2499,R. M. Ballantyne,Over the Rocky Mountains: Wandering Will in the Land of the Redskin,g_24086,g_24086,,2490
+s,2500,R. M. Ballantyne,The Battle and the Breeze,g_23370,g_23370,,2490
+s,2501,R. M. Ballantyne,Wrecked but not Ruined,g_23388,g_23388,,2490
+s,2502,R. M. Ballantyne,The Young Fur Traders,g_21712,g_21712,,2490
+s,2503,R. M. Ballantyne,Snowflakes and Sunbeams; Or The Young Fur-traders: A Tale of the Far North,g_6357,g_6357,,2490
+s,2504,R. M. Ballantyne,Man on the Ocean: A Book about Boats and Ships,g_21749,g_21749,,2490
+s,2505,R. M. Ballantyne,The Middy and the Moors: An Algerine Story,g_21751,g_21751,,2490
+s,2506,R. M. Ballantyne,The Hot Swamp,g_21757,g_21757,,2490
+s,2507,R. M. Ballantyne,Hunted and Harried,g_21738,g_21738,,2490
+s,2508,R. M. Ballantyne,The Pirate City: An Algerine Tale,g_21692,g_21692,,2490
+s,2509,R. M. Ballantyne,Twice Bought,g_21706,g_21706,,2490
+s,2510,R. M. Ballantyne,The Rover of the Andes: A Tale of Adventure on South America,g_21699,g_21699,,2490
+s,2511,R. M. Ballantyne,The Ocean and Its Wonders,g_21754,g_21754,,2490
+s,2512,R. M. Ballantyne,The Island Queen,g_21741,g_21741,,2490
+s,2513,R. M. Ballantyne,The Floating Light of the Goodwin Sands,g_21735,g_21735,,2490
+s,2514,R. M. Ballantyne,Martin Rattler,g_21750,g_21750,,2490
+s,2515,R. M. Ballantyne,The Young Trawler,g_21713,g_21713,,2490
+s,2516,R. M. Ballantyne,Away in the Wilderness,g_21715,g_21715,,2490
+s,2517,R. M. Ballantyne,Hudson Bay,g_21758,g_21758,,2490
+s,2518,R. M. Ballantyne,The Norsemen in the West,g_21753,g_21753,,2490
+s,2519,R. M. Ballantyne,Handbook to the new Gold-fields,g_23389,g_23389,,2490
+s,2520,R. M. Ballantyne,Six Months at the Cape,g_21704,g_21704,,2490
+s,2521,R. M. Ballantyne,Jarwin and Cuffy,g_21742,g_21742,,2490
+s,2522,R. M. Ballantyne,The Lifeboat,g_21744,g_21744,,2490
+s,2523,R. M. Ballantyne,Erling the Bold,g_21730,g_21730,,2490
+s,2524,R. M. Ballantyne,The Big Otter,g_21718,g_21718,,2490
+s,2525,R. M. Ballantyne,The Dog Crusoe and his Master,g_21728,g_21728,,2490
+s,2526,R. M. Ballantyne,Saved by the Lifeboat,g_23385,g_23385,,2490
+s,2527,R. M. Ballantyne,Fast in the Ice: Adventures in the Polar Regions,g_23492,g_23492,,2490
+s,2528,R. M. Ballantyne,The Cannibal Islands: Captain Cook's Adventure in the South Seas,g_23267,g_23267,,2490
+s,2529,R. M. Ballantyne and William Roscoe,The Butterfly's Ball and the Grasshopper's Feast,g_21823,g_21823,,2490
+s,2530,R. M. Ballantyne,The Lively Poll: A Tale of the North Sea,g_23377,g_23377,,2490
+s,2531,R. M. Ballantyne,Jeff Benson or the Young Coastguardsman,g_21743,g_21743,,2490
+s,2532,R. M. Ballantyne,Deep Down a Tale of the Cornish Mines,g_21726,g_21726,,2490
+s,2533,R. M. Ballantyne,Under the Waves: Diving in Deep Waters,g_23493,g_23493,,2490
+s,2534,R. M. Ballantyne,The Red Eric,g_21714,g_21714,,2490
+s,2535,R. M. Ballantyne,The Iron Horse,g_21740,g_21740,,2490
+s,2536,R. M. Ballantyne,The Crew of the Water Wagtail,g_21710,g_21710,,2490
+s,2537,R. M. Ballantyne,The Eagle Cliff,g_23373,g_23373,,2490
+s,2538,R. M. Ballantyne,Life in the Red Brigade: London Fire Brigade,g_21695,g_21695,,2490
+s,2539,R. M. Ballantyne,The Thorogood Family,g_23381,g_23381,,2490
+s,2540,R. M. Ballantyne,Ungava,g_21707,g_21707,,2490
+s,2541,R. M. Ballantyne,Philosopher Jack,g_21756,g_21756,,2490
+s,2542,R. M. Ballantyne,The Lighthouse,g_21746,g_21746,,2490
+s,2543,R. M. Ballantyne,Blown to Bits: The Lonely Man of Rakata the Malay Archipelago,g_23371,g_23371,,2490
+s,2544,R. M. Ballantyne,The Golden Dream: Adventures in the Far West,g_21734,g_21734,,2490
+s,2545,R. M. Ballantyne,The Settler and the Savage,g_21701,g_21701,,2490
+s,2546,R. M. Ballantyne,Digging for Gold: Adventures in California,g_21727,g_21727,,2490
+s,2547,R. M. Ballantyne,Silver Lake,g_21703,g_21703,,2490
+s,2548,R. M. Ballantyne,Blue Lights: Hot Work in the Soudan,g_21719,g_21719,,2490
+s,2549,R. M. Ballantyne,Battles with the Sea,g_21717,g_21717,,2490
+s,2550,R. M. Ballantyne,The Red Man's Revenge: A Tale of The Red River Flood,g_21697,g_21697,,2490
+s,2551,R. M. Ballantyne,The Coxswain's Bride; also Jack Frost and Sons; and A Double Rescue,g_21725,g_21725,,2490
+s,2552,R. M. Ballantyne,The Lonely Island: The Refuge of the Mutineers,g_21747,g_21747,,2490
+s,2553,R. M. Ballantyne,Gascoyne the Sandal-Wood Trader,g_23384,g_23384,,2490
+s,2554,R. M. Ballantyne,Charlie to the Rescue,g_21720,g_21720,,2490
+s,2555,R. M. Ballantyne,In the Track of the Troops,g_21705,g_21705,,2490
+s,2556,R. M. Ballantyne,Dusty Diamonds Cut and Polished: A Tale of City Arab Life and Adventure,g_21729,g_21729,,2490
+s,2557,R. M. Ballantyne,The Buffalo Runners: A Tale of the Red River Plains,g_23372,g_23372,,2490
+s,2558,R. M. Ballantyne,The Dog Crusoe and His Master: A Story of Adventure in the Western Prairies,g_10929,g_10929,,2490
+s,2559,R. M. Ballantyne,Lost in the Forest: Wandering Will's Adventures in South America,g_23274,g_23274,,2490
+s,2560,R. M. Ballantyne,The Life of a Ship,g_21745,g_21745,,2490
+s,2561,R. M. Ballantyne,Fighting the Whales,g_21731,g_21731,,2490
+s,2562,R. M. Ballantyne,The Walrus Hunters: A Romance of the Realms of Ice,g_21709,g_21709,,2490
+s,2563,R. M. Ballantyne,Fighting the Whales,g_21202,g_21202,,2490
+s,2564,R. M. Ballantyne,Shifting Winds: A Tough Yarn,g_21702,g_21702,,2490
+s,2565,R. M. Ballantyne,The Battery and the Boiler: Adventures in Laying of Submarine Electric Cables,g_21716,g_21716,,2490
+s,2566,R. M. Ballantyne,The Fugitives: The Tyrant Queen of Madagascar,g_23263,g_23263,,2490
+s,2567,R. M. Ballantyne,Fighting the Flames,g_23380,g_23380,,2490
+s,2568,R. M. Ballantyne,Gascoyne The Sandal-Wood Trader: A Tale of the Pacific,g_15689,g_15689,,2490
+s,2569,R. M. Ballantyne,The World of Ice,g_11602,g_11602,,2490
+s,2570,R. M. Ballantyne,Sunk at Sea,g_23271,g_23271,,2490
+s,2571,R. M. Ballantyne,The Story of the Rock,g_23272,g_23272,,2490
+s,2572,R. M. Ballantyne,The Coral Island: A Tale of the Pacific Ocean,g_7124,g_7124,,2490
+s,2573,R. M. Ballantyne,Fort Desolation: Red Indians and Fur Traders of Rupert's Land,g_21732,g_21732,,2490
+s,2574,R. M. Ballantyne,The Prairie Chief,g_21694,g_21694,,2490
+s,2575,R. M. Ballantyne,Chasing the Sun,g_23262,g_23262,,2490
+s,2576,R. M. Ballantyne,Up in the Clouds: Balloon Voyages,g_21708,g_21708,,2490
+s,2577,R. M. Ballantyne,Red Rooney: The Last of the Crew,g_21696,g_21696,,2490
+s,2578,R. M. Ballantyne,The Pioneers,g_21691,g_21691,,2490
+s,2579,R. M. Ballantyne,Blown to Bits; or The Lonely Man of Rakata,g_15348,g_15348,,2490
+s,2580,R. M. Ballantyne,Freaks on the Fells: Three Months' Rustication,g_23505,g_23505,,2490
+s,2581,R. M. Ballantyne,Rivers of Ice,g_21698,g_21698,,2490
+s,2582,R. M. Ballantyne,The World of Ice,g_21711,g_21711,,2490
+s,2583,R. M. Ballantyne,The Lighthouse,g_15124,g_15124,,2490
+s,2584,R. M. Ballantyne,Martin Rattler,g_13290,g_13290,,2490
+s,2585,R. M. Ballantyne,Post Haste,g_21693,g_21693,,2490
+c,2590,Jr. Horatio Alger,Stories by Jr. Horatio Alger,,l_2590,,
+s,2591,Jr. Horatio Alger,Frank's Campaign; Or The Farm and the Camp,g_1573,g_1573,,2590
+s,2592,Jr. Horatio Alger,The Store Boy,g_10724,g_10724,,2590
+s,2593,Jr. Horatio Alger,The Telegraph Boy,g_24013,g_24013,,2590
+s,2594,Jr. Horatio Alger,Bound to Rise; Or Up the Ladder,g_5977,g_5977,,2590
+s,2595,Jr. Horatio Alger and Thomas Chandler Haliburton,Nothing to Eat,g_5868,g_5868,,2590
+s,2596,Jr. Horatio Alger,Do and Dare — a Brave Boy's Fight for Fortune,g_5747,g_5747,,2590
+s,2597,Jr. Horatio Alger,Cast Upon the Breakers,g_399,g_399,,2590
+s,2598,Jr. Horatio Alger,Paul Prescott's Charge,g_293,g_293,,2590
+s,2599,Jr. Horatio Alger,Fame and Fortune; or The Progress of Richard Hunter,g_21632,g_21632,,2590
+s,2600,Jr. Horatio Alger,Facing the World,g_6461,g_6461,,2590
+s,2601,Jr. Horatio Alger,From Farm to Fortune; or Nat Nason's Strange Experience,g_22565,g_22565,,2590
+s,2602,Jr. Horatio Alger,Dan the Newsboy,g_53345,g_53345,,2590
+s,2603,Jr. Horatio Alger,Adrift in New York: Tom and Florence Braving the World,g_18581,g_18581,,2590
+s,2604,Jr. Horatio Alger,The Cash Boy,g_296,g_296,,2590
+s,2605,Jr. Horatio Alger,Adrift in New York: Tom and Florence Braving the World,g_18581,g_18581,,2590
+s,2606,Jr. Horatio Alger,The Errand Boy; Or How Phil Brent Won Success,g_462,g_462,,2590
+s,2607,Jr. Horatio Alger,Paul the Peddler; Or The Fortunes of a Young Street Merchant,g_659,g_659,,2590
+s,2608,Jr. Horatio Alger,Joe the Hotel Boy; Or Winning out by Pluck,g_528,g_528,,2590
+s,2609,Jr. Horatio Alger,The Young Explorer; Or Claiming His Fortune,g_5623,g_5623,,2590
+s,2610,Jr. Horatio Alger,Risen from the Ranks; Or Harry Walton's Success,g_12741,g_12741,,2590
+s,2611,Jr. Horatio Alger,Helping Himself; Or Grant Thornton's Ambition,g_5833,g_5833,,2590
+s,2612,Jr. Horatio Alger,Phil the Fiddler,g_671,g_671,,2590
+s,2613,Jr. Horatio Alger,Andy Grant's Pluck,g_14831,g_14831,,2590
+s,2614,Jr. Horatio Alger,Brave and Bold; Or The Fortunes of Robert Rushton,g_9990,g_9990,,2590
+s,2615,Jr. Horatio Alger,Driven from Home; Or Carl Crawford's Experience,g_530,g_530,,2590
+s,2616,Jr. Horatio Alger,Chester Rand; or The New Path to Fortune,g_23108,g_23108,,2590
+s,2617,Jr. Horatio Alger,Hector's Inheritance Or the Boys of Smith Institute,g_5674,g_5674,,2590
+s,2618,Jr. Horatio Alger,Herbert Carter's Legacy; Or the Inventor's Son,g_6162,g_6162,,2590
+s,2619,Jr. Horatio Alger,Walter Sherwood's Probation,g_5993,g_5993,,2590
+s,2620,Jr. Horatio Alger,Try and Trust; Or Abner Holden's Bound Boy,g_5778,g_5778,,2590
+s,2621,Jr. Horatio Alger,From Canal Boy to President; Or the Boyhood and Manhood of James A. Garfield,g_14964,g_14964,,2590
+s,2622,Jr. Horatio Alger,Only an Irish Boy; Or Andy Burke's Fortunes,g_11111,g_11111,,2590
+s,2623,Jr. Horatio Alger,The Young Acrobat of the Great North American Circus,g_22521,g_22521,,2590
+s,2624,Jr. Horatio Alger,Joe's Luck; Or Always Wide Awake,g_12823,g_12823,,2590
+s,2625,Jr. Horatio Alger,Struggling Upward or Luke Larkin's Luck,g_5417,g_5417,,2590
+s,2626,Jr. Horatio Alger,Frank and Fearless; or The Fortunes of Jasper Kent,g_19592,g_19592,,2590
+s,2627,Jr. Horatio Alger,Making His Way; Or Frank Courtney's Struggle Upward,g_13803,g_13803,,2590
+s,2628,Jr. Horatio Alger,Timothy Crump's Ward: A Story of American Life,g_4660,g_4660,,2590
+s,2629,Jr. Horatio Alger,The Young Musician; Or Fighting His Way,g_5673,g_5673,,2590
+s,2630,Jr. Horatio Alger,Jack's Ward; Or The Boy Guardian,g_10729,g_10729,,2590
+s,2631,Jr. Horatio Alger and Edward Stratemeyer,Young Captain Jack; Or The Son of a Soldier,g_20432,g_20432,,2590
+s,2632,Jr. Horatio Alger,Ragged Dick Or Street Life in New York with the Boot-Blacks,g_5348,g_5348,,2590
+c,2640,Angela Brazil,Girls Stories by Angela Brazil,,l_2640,,
+s,2641,Angela Brazil,The Youngest Girl in the Fifth: A School Story,g_21687,g_21687,,2640
+s,2642,Angela Brazil,The Luckiest Girl in the School,g_18019,g_18019,,2640
+s,2643,Angela Brazil,A Popular Schoolgirl,g_18505,g_18505,,2640
+s,2644,Angela Brazil,The Princess of the School,g_21656,g_21656,,2640
+s,2645,Angela Brazil,The Jolliest School of All,g_20163,g_20163,,2640
+s,2646,Angela Brazil,For the Sake of the School,g_20730,g_20730,,2640
+s,2647,Angela Brazil,Monitress Merle,g_7820,g_7820,,2640
+c,2650,Edward Sylvester Ellis,Stories by Edward Sylvester Ellis,,l_2650,,
+s,2651,Edward Sylvester Ellis,The Huge Hunter; Or The Steam Man of the Prairies,g_7506,g_7506,,2650
+s,2652,Edward Sylvester Ellis,The Life of Kit Carson: Hunter Trapper Guide Indian Agent and Colonel U.S.A.,g_7882,g_7882,,2650
+s,2653,Edward Sylvester Ellis,The Jungle Fugitives: A Tale of Life and Adventure in India,g_16805,g_16805,,2650
+s,2654,Edward Sylvester Ellis,The Lost Trail,g_11151,g_11151,,2650
+s,2655,Edward Sylvester Ellis,Two Boys in Wyoming: A Tale of Adventure,g_20223,g_20223,,2650
+s,2656,Edward Sylvester Ellis,Brave Tom; Or The Battle That Won,g_11978,g_11978,,2650
+s,2657,Edward Sylvester Ellis,The Cave in the Mountain,g_14647,g_14647,,2650
+s,2658,Edward Sylvester Ellis,The Land of Mystery,g_16855,g_16855,,2650
+s,2659,Edward Sylvester Ellis,Through Forest and Fire,g_16472,g_16472,,2650
+s,2660,Edward Sylvester Ellis,The Lost Trail,g_6906,g_6906,,2650
+s,2661,Edward Sylvester Ellis,The Story of Red Feather: A Tale of the American Frontier,g_24097,g_24097,,2650
+s,2662,Edward Sylvester Ellis,The Daughter of the Chieftain : the Story of an Indian Girl,g_7493,g_7493,,2650
+s,2663,Edward Sylvester Ellis,Adrift in the Wilds; Or The Adventures of Two Shipwrecked Boys,g_21626,g_21626,,2650
+s,2664,Edward Sylvester Ellis,Cowmen and Rustlers: A Story of the Wyoming Cattle Ranges,g_11337,g_11337,,2650
+s,2665,Edward Sylvester Ellis,The Boy Patriot,g_21125,g_21125,,2650
+s,2666,Edward Sylvester Ellis,Oonomoo the Huron,g_16869,g_16869,,2650
+s,2667,Edward Sylvester Ellis,In the Pecos Country,g_5828,g_5828,,2650
+s,2668,Edward Sylvester Ellis,Klondike Nuggets and How Two Boys Secured Them,g_21652,g_21652,,2650
+c,2670,Oliver Optic,Stories by Oliver Optic,,l_2670,,
+s,2671,Oliver Optic,Within The Enemy's Lines,g_18264,g_18264,,2670
+s,2672,Oliver Optic,The Yacht Club; or The Young Boat-Builder,g_23351,g_23351,,2670
+s,2673,Oliver Optic,Four Young Explorers; Or Sight-Seeing in the Tropics,g_24252,g_24252,,2670
+s,2674,Oliver Optic,A Victorious Union,g_18678,g_18678,,2670
+s,2675,Oliver Optic,Across India; Or Live Boys in the Far East,g_15540,g_15540,,2670
+s,2676,Oliver Optic,On The Blockade,g_18617,g_18617,,2670
+s,2677,Oliver Optic,The Soldier Boy; or Tom Somers in the Army: A Story of the Great Rebellion,g_14595,g_14595,,2670
+s,2678,Oliver Optic,The Birthday Party: A Story for Little Folks,g_21901,g_21901,,2670
+s,2679,Oliver Optic,Down the Rhine; Or Young America in Germany,g_24124,g_24124,,2670
+s,2680,Oliver Optic,Fighting for the Right,g_18803,g_18803,,2670
+s,2681,Oliver Optic,Taken by the Enemy,g_18579,g_18579,,2670
+s,2682,Oliver Optic,Stand By The Union,g_18816,g_18816,,2670
+s,2683,Oliver Optic,Now or Never; Or The Adventures of Bobby Bright,g_19473,g_19473,,2670
+s,2684,Oliver Optic,Outward Bound Or Young America Afloat: A Story of Travel and Adventure,g_15920,g_15920,,2670
+s,2685,Oliver Optic,Haste and Waste; Or the Young Pilot of Lake Champlain. A Story for Young People,g_6572,g_6572,,2670
+s,2686,Oliver Optic,Poor and Proud; Or The Fortunes of Katy Redburn: A Story for Young Folks,g_484,g_484,,2670
+s,2687,Oliver Optic,Breaking Away; or The Fortunes of a Student,g_22433,g_22433,,2670
+s,2688,Oliver Optic,The Coming Wave; Or The Hidden Treasure of High Rock,g_23773,g_23773,,2670
+s,2689,Oliver Optic,All Aboard; or Life on the Lake,g_15002,g_15002,,2670
+s,2690,Oliver Optic,Down the River; Or Buck Bradford and His Tyrants,g_24283,g_24283,,2670
+s,2691,Oliver Optic,Work and Win; Or Noddy Newman on a Cruise,g_23758,g_23758,,2670
+s,2692,Oliver Optic,Now or Never; Or The Adventures of Bobby Bright: A Story for Young Folks,g_14762,g_14762,,2670
+c,2700,Joseph A. Altsheler,Stories by Joseph A. Altsheler,,l_2700,,
+s,2701,Joseph A. Altsheler,The Scouts of the Valley,g_1078,g_1078,,2700
+s,2702,Joseph A. Altsheler,The Young Trailers: A Story of Early Kentucky,g_19477,g_19477,,2700
+s,2703,Joseph A. Altsheler,The Texan Scouts: A Story of the Alamo and Goliad,g_15767,g_15767,,2700
+s,2704,Joseph A. Altsheler,The Forest Runners: A Story of the Great War Trail in Early Kentucky,g_14876,g_14876,,2700
+s,2705,Joseph A. Altsheler,The Hunters of the Hills,g_14890,g_14890,,2700
+s,2706,Joseph A. Altsheler,The Rock of Chickamauga: A Story of the Western Crisis,g_9745,g_9745,,2700
+s,2707,Joseph A. Altsheler,The Guns of Bull Run: A Story of the Civil War's Eve,g_3653,g_3653,,2700
+s,2708,Joseph A. Altsheler,The Shadow of the North: A Story of Old New York and a Lost Campaign,g_11881,g_11881,,2700
+s,2709,Joseph A. Altsheler,The Scouts of Stonewall: The Story of the Great Valley Campaign,g_6094,g_6094,,2700
+s,2710,Joseph A. Altsheler,The Hosts of the Air,g_15285,g_15285,,2700
+s,2711,Joseph A. Altsheler,The Sword of Antietam: A Story of the Nation's Crisis,g_7862,g_7862,,2700
+s,2712,Joseph A. Altsheler,The Star of Gettysburg: A Story of Southern High Tide,g_3811,g_3811,,2700
+s,2713,Joseph A. Altsheler,The Masters of the Peaks: A Story of the Great North Woods,g_11311,g_11311,,2700
+s,2714,Joseph A. Altsheler,The Sun of Quebec: A Story of a Great Crisis,g_18774,g_18774,,2700
+s,2715,Joseph A. Altsheler,The Last of the Chiefs: A Story of the Great Sioux War,g_22464,g_22464,,2700
+s,2716,Joseph A. Altsheler,The Tree of Appomattox,g_17677,g_17677,,2700
+s,2717,Joseph A. Altsheler,The Lords of the Wild: A Story of the Old New York Border,g_11961,g_11961,,2700
+s,2718,Joseph A. Altsheler,The Forest of Swords: A Story of Paris and the Marne,g_15760,g_15760,,2700
+s,2719,Joseph A. Altsheler,The Shades of the Wilderness: A Story of Lee's Great Stand,g_12532,g_12532,,2700
+s,2720,Joseph A. Altsheler,The Free Rangers: A Story of the Early Days Along the Mississippi,g_15055,g_15055,,2700
+s,2721,Joseph A. Altsheler,The Texan Star: The Story of a Great Fight for Liberty,g_15852,g_15852,,2700
+s,2722,Joseph A. Altsheler,The Rulers of the Lakes: A Story of George and Champlain,g_14891,g_14891,,2700
+c,2730,Mayne Reid,Stories by Mayne Reid,,l_2730,,
+s,2731,Mayne Reid,The Boy Hunters,g_21236,g_21236,,2730
+s,2732,Mayne Reid,The Rifle Rangers,g_21241,g_21241,,2730
+s,2733,Mayne Reid,The Young Voyageurs: Boy Hunters in the North,g_23129,g_23129,,2730
+s,2734,Mayne Reid,The Castaways,g_21238,g_21238,,2730
+s,2735,Mayne Reid,The Cliff Climbers,g_21239,g_21239,,2730
+s,2736,Mayne Reid,The Bush Boys: History and Adventures of a Cape Farmer and his Family,g_21237,g_21237,,2730
+s,2737,Mayne Reid,The Lone Ranche,g_21240,g_21240,,2730
+c,2740,L. T. Meade,Girls Stories by L. T. Meade,,l_2740,,
+s,2741,L. T. Meade,Sue A Little Heroine,g_20071,g_20071,,2740
+s,2742,L. T. Meade,A Modern Tomboy: A Story for Girls,g_22164,g_22164,,2740
+s,2743,L. T. Meade,The Rebel of the School,g_15839,g_15839,,2740
+s,2744,L. T. Meade,The Honorable Miss: A Story of an Old-Fashioned Town,g_15778,g_15778,,2740
+s,2745,L. T. Meade,A Girl in Ten Thousand,g_19761,g_19761,,2740
+s,2746,L. T. Meade,Polly: A New-Fashioned Girl,g_18666,g_18666,,2740
+s,2747,L. T. Meade,A Girl of the People,g_6142,g_6142,,2740
+s,2748,L. T. Meade,The Palace Beautiful: A Story for Girls,g_15149,g_15149,,2740
+s,2749,L. T. Meade,Red Rose and Tiger Lily; Or In a Wider World,g_23022,g_23022,,2740
+s,2750,L. T. Meade,A Little Mother to the Others,g_17506,g_17506,,2740
+s,2751,L. T. Meade,Wild Kitty,g_9986,g_9986,,2740
+s,2752,L. T. Meade,Light O' the Morning: The Story of an Irish Girl,g_7231,g_7231,,2740
+s,2753,L. T. Meade,Dickory Dock,g_21942,g_21942,,2740
+s,2754,L. T. Meade,The Children's Pilgrimage,g_6899,g_6899,,2740
+s,2755,L. T. Meade,A Sweet Girl Graduate,g_4989,g_4989,,2740
+c,2760,Multiple,Fiction,,l_2760,,
+s,2761,Norman Lindsay,The Magic Pudding,g_23625,g_23625,,2760
+s,2762,L. Frank Baum,The Flying Girl,g_53386,g_53386,,2760
+s,2763,Joseph A. Altsheler,The Guns of Shiloh: A Story of the Great Western Campaign,g_5207,g_5207,,2760
+s,2764,Frank Richard Stockton,A Jolly Fellowship,g_20651,g_20651,,2760
+s,2765,Sarah Tytler,Girlhood and Womanhood,g_19140,g_19140,,2760
+s,2766,Amy Ella Blanchard,Little Maid Marian,g_19988,g_19988,,2760
+s,2767,Marmaduke Park,Thrilling Stories Of The Ocean,g_13604,g_13604,,2760
+s,2768,Cyrus Townsend Brady,South American Fights and Fighters and Other Tales of Adventure,g_20910,g_20910,,2760
+s,2769,Emma Leslie,Hayslope Grange: A Tale of the Civil War,g_19136,g_19136,,2760
+s,2770,Sara Ware Bassett,Steve and the Steam Engine,g_22245,g_22245,,2760
+s,2771,Emma Leslie,A Sailor's Lass,g_21797,g_21797,,2760
+s,2772,Harriet Myrtle,The Goat and Her Kid,g_21275,g_21275,,2760
+s,2773,William O. Stoddard,Crowded Out o' Crofield; or The Boy who made his Way,g_21846,g_21846,,2760
+s,2774,Sarah Tytler,A Houseful of Girls,g_20081,g_20081,,2760
+s,2775,Sara Ware Bassett,Ted and the Telephone,g_23292,g_23292,,2760
+s,2776,Cyrus Townsend Brady,A Little Traitor to the South,g_21681,g_21681,,2760
+s,2777,William O. Stoddard,The Talking Leaves: An Indian Story,g_21913,g_21913,,2760
+s,2778,Charlotte M. Higgins,The Angel Children,g_20043,g_20043,,2760
+s,2779,Harry Castlemon,Don Gordon's Shooting-Box,g_53479,g_53479,,2760
+s,2780,Cyrus Townsend Brady,For Love of Country: A Story of Land and Sea in the Days of the Revolution,g_20791,g_20791,,2760
+s,2781,Emma Leslie,Kate's Ordeal,g_20307,g_20307,,2760
+s,2782,Amy Ella Blanchard,A Sweet Little Maid,g_19025,g_19025,,2760
+s,2783,Harriet Myrtle,Adventure of a Kite,g_18968,g_18968,,2760
+s,2784,Cyrus Townsend Brady,The Eagle of the Empire: A Story of Waterloo,g_20515,g_20515,,2760
+s,2785,William O. Stoddard,Dab Kinzer: A Story of a Growing Boy,g_10340,g_10340,,2760
+s,2786,Unknown Author,Forest and Frontiers; Or Adventures Among the Indians,g_8411,g_8411,,2760
