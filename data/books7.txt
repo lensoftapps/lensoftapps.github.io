@@ -29,7 +29,7 @@ s,1909,Herbert Carter,The Boy Scouts Along the Susquehanna; Or The Silver Fox Pa
 s,1910,Herbert Carter,The Boy Scouts on War Trails in Belgium; Or Caught Between Hostile Armies,g_46968,g_46968,,1900
 s,1911,Herbert Carter,The Boy Scouts Through the Big Timber; Or The Search for the Lost Tenderfoot,g_44882,g_44882,,1900
 s,1912,Herbert Carter,The Boy Scouts on Sturgeon Island; Or Marooned Among the Game-fish Poachers,g_8067,g_8067,,1900
-b,1920,Harry Moore,The Liberty Boys Running the Blockade; Or Getting Out of New York, g_22902, g_22902,,
+b,1920,Harry Moore,The Liberty Boys Running the Blockade; Or Getting Out of New York,g_22902,g_22902,,
 c,1930,Robert Shaler,The Boy Scouts by Robert Shaler,,l_1930,,
 s,1931,Robert Shaler,The Boy Scouts at Mobilization Camp,g_50224,g_50224,,1930
 s,1932,Robert Shaler,The Boy Scouts of the Life Saving Crew,g_48164,g_48164,,1930
