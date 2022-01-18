@@ -1,0 +1,14 @@
+b,2800,Homer,The Iliad & The Odyssey,f_4959,f_4959,,
+b,2801,Virginia Woolf,Flush: A Biography,f_6693,f_6693,,
+b,2802,Saki,The Toys of Peace and Other Papers,f_6707,f_6707,,
+b,2803,Susan Coolidge,What Katy Did,f_6724,f_6724,,
+b,2804,Kate Douglas Wiggin,Rebecca of Sunnybrook Farm,f_6683,f_6683,,
+b,2805,Cory Doctorow,Little Brother,f_2466,f_2466,,
+b,2806,Lucy Maud Montgomery,Chronicles of Avonlea,f_6759,f_6759,,
+b,2807,Lucy Maud Montgomery,The Story Girl,f_7041,f_7041,,
+b,2808,Louisa May Alcott,Little Women,f_139,f_139,,
+b,2809,A. Milne,Winnie-the-Pooh,g_67098,l_2809,1,
+c,2810,Lucy Maud Montgomery,Emily,,l_2810,,
+s,2811,Lucy Maud Montgomery,Emily of New Moon,f_6579,f_6579,,2810
+s,2812,Lucy Maud Montgomery,Emily Climbs,f_6580,f_6580,,2810
+s,2813,Lucy Maud Montgomery,Emily's Quest,f_6581,f_6581,,2810
