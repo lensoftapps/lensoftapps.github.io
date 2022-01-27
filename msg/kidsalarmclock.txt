@@ -1,6 +1,6 @@
 on:true
 version:1
-text:Try this new app!
+text:Try this new app! <a href="about:blank">Go to Play Store</a>
 img:true
 link1:market://details?id=com.lensoft.youkidstube
 link2:https://play.google.com/store/apps/details?id=com.lensoft.youkidstube
