@@ -1,6 +1,6 @@
 on_true
-version_1
-text_Try this new app! For kids who like to watch the same videos over and over again! Simple, safe, free! <a href="about:blank">Open in Play Store</a>
+version_2
+text_2Try this new app! For kids who like to watch the same videos over and over again! Simple, safe, free! <a href="about:blank">Open in Play Store</a>
 img_true
 link1_market://details?id=com.lensoft.youkidstube
 link2_https://play.google.com/store/apps/details?id=com.lensoft.youkidstube
