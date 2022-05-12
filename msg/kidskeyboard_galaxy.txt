@@ -1,0 +1,6 @@
+on_true
+version_1
+text_Try this new app! For kids who like to watch the same videos over and over again! Simple, safe, free! <a href="about:blank">Open in Galaxy Store</a>
+img_true
+link1_samsungapps://ProductDetail/com.lensoft.youkidstube
+link2_https://galaxystore.samsung.com/detail/com.lensoft.youkidstube
